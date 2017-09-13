@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<slideshowData 
+	speed="4"
+	border="10"
+	scrubColor="0x006699" 
+	buttons="on"
+	description="on"
+	overlay="off"
+	position="left">
+
+<slide>
+<imagePath></imagePath>
+<thumbPath>images/traditional_gallery_video/thumbs/thumb1.jpg</thumbPath>
+<imageWidth>800</imageWidth>
+<imageHeight>450</imageHeight>
+<zoom>off</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>youtube</media>
+<youtube>7vikh4ARrII</youtube>
+<startFrame>0</startFrame>
+<quality>large</quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">LINDA VELASQUEZ</font><br><font color = "#ffffff" size ="8">Collection by Peter Housen</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">LINDA VELASQUEZ - Collection by Peter Housen</font><br><font color = "#ffffff" size ="8">Set a description for each image in the xml. Also add links. </font><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen>on</fullscreen>
+</slide>
+
+<slide>
+<imagePath></imagePath>
+<thumbPath>images/traditional_gallery_video/thumbs/thumb2.jpg</thumbPath>
+<imageWidth>700</imageWidth>
+<imageHeight>396</imageHeight>
+<zoom>on</zoom>
+<videoPath></videoPath>
+<buffTime>3</buffTime>
+<swfPath></swfPath>
+<media>video</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">DEBRA PATRICK</font><br><font color = "#ffffff" size ="8">Collection by Will Marks</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">DEBRA PATRICK - Collection by Will Marks</font><br><font color = "#ffffff" size ="8">Set a description for each image in the xml. Also add links. </font><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen>off</fullscreen>
+</slide>
+
+<slide>
+<imagePath></imagePath>
+<thumbPath>images/traditional_gallery_video/thumbs/thumb3.jpg</thumbPath>
+<imageWidth>800</imageWidth>
+<imageHeight>450</imageHeight>
+<zoom>off</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>youtube</media>
+<youtube>UDFK-tex_ko</youtube>
+<startFrame>0</startFrame>
+<quality>large</quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">JAIMIE GARNET</font><br><font color = "#ffffff" size ="8">Collection by Scott Hansen</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">JAIMIE GARNET - Collection by Scott Hansen</font><br><font color = "#ffffff" size ="8">Set a description for each image in the xml. Also add links. </font><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen>on</fullscreen>
+</slide>
+
+<slide>
+<imagePath></imagePath>
+<thumbPath>images/traditional_gallery_video/thumbs/thumb4.jpg</thumbPath>
+<imageWidth>700</imageWidth>
+<imageHeight>396</imageHeight>
+<zoom>off</zoom>
+<videoPath>http://s3.envato.com/files/1355305/elegantextrusion_video_preview.flv</videoPath>
+<buffTime>3</buffTime>
+<swfPath></swfPath>
+<media>video</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">CHRISTIE SWINSON</font><br><font color = "#ffffff" size ="8">Collection by David Hudson</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">CHRISTIE SWINSON - Collection by David Hudson</font><br><font color = "#ffffff" size ="8">Set a description for each image in the xml. This text field is html formatted text. </font><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8"> {launch site}</font>]]></description>
+<fullscreen>on</fullscreen>
+</slide>
+
+<slide>
+<imagePath></imagePath>
+<thumbPath>images/traditional_gallery_video/thumbs/thumb5.jpg</thumbPath>
+<imageWidth>800</imageWidth>
+<imageHeight>450</imageHeight>
+<zoom>off</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>youtube</media>
+<youtube>uUoVCd7QB-0</youtube>
+<startFrame>0</startFrame>
+<quality>large</quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">NICOLE VERETTI</font><br><font color = "#ffffff" size ="8">Collection by Sam Jacobson</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">NICOLE VERETTI - Collection by Sam Jacobson</font><br><font color = "#ffffff" size ="8">Set a description for each image in the xml. This text field is html formatted text. </font><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen>off</fullscreen>
+</slide>
+
+<slide>
+<imagePath></imagePath>
+<thumbPath>images/traditional_gallery_video/thumbs/thumb6.jpg</thumbPath>
+<imageWidth>700</imageWidth>
+<imageHeight>396</imageHeight>
+<zoom>on</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>youtube</media>
+<youtube>PzMpnqR-akU</youtube>
+<startFrame>0</startFrame>
+<quality>hd1080</quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">LINDA FIORENTI</font><br><font color = "#ffffff" size ="8">Collection by Victor Beninni</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">LINDA FIORENTI - Collection by Victor Beninni</font><br><font color = "#ffffff" size ="8">Set a description for each image in the xml. This text field is html formatted text. </font><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen>on</fullscreen>
+</slide>
+
+<slide>
+<imagePath></imagePath>
+<thumbPath>images/traditional_gallery_video/thumbs/thumb7.jpg</thumbPath>
+<imageWidth>800</imageWidth>
+<imageHeight>450</imageHeight>
+<zoom>off</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>youtube</media>
+<youtube>_17awYDNREI</youtube>
+<startFrame>0</startFrame>
+<quality>large</quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">AMBER JACOBS</font><br><font color = "#ffffff" size ="8">Collection by Linda Macarthy</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">AMBER JACOBS - Collection by Linda Macarthy</font><br><font color = "#ffffff" size ="8">Set a description for each image in the xml. Also add links. </font><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen>off</fullscreen>
+</slide>
+
+<slide>
+<imagePath></imagePath>
+<thumbPath>images/traditional_gallery_video/thumbs/thumb1.jpg</thumbPath>
+<imageWidth>800</imageWidth>
+<imageHeight>450</imageHeight>
+<zoom>off</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>youtube</media>
+<youtube>7vikh4ARrII</youtube>
+<startFrame>0</startFrame>
+<quality>large</quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">LINDA VELASQUEZ</font><br><font color = "#ffffff" size ="8">Collection by Peter Housen</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">LINDA VELASQUEZ - Collection by Peter Housen</font><br><font color = "#ffffff" size ="8">Set a description for each image in the xml. Also add links. </font><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen>on</fullscreen>
+</slide>
+
+<slide>
+<imagePath></imagePath>
+<thumbPath>images/traditional_gallery_video/thumbs/thumb2.jpg</thumbPath>
+<imageWidth>700</imageWidth>
+<imageHeight>396</imageHeight>
+<zoom>on</zoom>
+<videoPath>http://s3.envato.com/files/1311982/Lights of Envato.flv</videoPath>
+<buffTime>3</buffTime>
+<swfPath></swfPath>
+<media>video</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">DEBRA PATRICK</font><br><font color = "#ffffff" size ="8">Collection by Will Marks</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">DEBRA PATRICK - Collection by Will Marks</font><br><font color = "#ffffff" size ="8">Set a description for each image in the xml. Also add links. </font><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen>off</fullscreen>
+</slide>
+
+<slide>
+<imagePath></imagePath>
+<thumbPath>images/traditional_gallery_video/thumbs/thumb3.jpg</thumbPath>
+<imageWidth>800</imageWidth>
+<imageHeight>450</imageHeight>
+<zoom>off</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>youtube</media>
+<youtube>UDFK-tex_ko</youtube>
+<startFrame>0</startFrame>
+<quality>large</quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">JAIMIE GARNET</font><br><font color = "#ffffff" size ="8">Collection by Scott Hansen</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">JAIMIE GARNET - Collection by Scott Hansen</font><br><font color = "#ffffff" size ="8">Set a description for each image in the xml. Also add links. </font><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen>on</fullscreen>
+</slide>
+
+<slide>
+<imagePath></imagePath>
+<thumbPath>images/traditional_gallery_video/thumbs/thumb4.jpg</thumbPath>
+<imageWidth>700</imageWidth>
+<imageHeight>396</imageHeight>
+<zoom>off</zoom>
+<videoPath>http://s3.envato.com/files/1355305/elegantextrusion_video_preview.flv</videoPath>
+<buffTime>3</buffTime>
+<swfPath></swfPath>
+<media>video</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">CHRISTIE SWINSON</font><br><font color = "#ffffff" size ="8">Collection by David Hudson</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">CHRISTIE SWINSON - Collection by David Hudson</font><br><font color = "#ffffff" size ="8">Set a description for each image in the xml. This text field is html formatted text. </font><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8"> {launch site}</font>]]></description>
+<fullscreen>on</fullscreen>
+</slide>
+
+<slide>
+<imagePath></imagePath>
+<thumbPath>images/traditional_gallery_video/thumbs/thumb5.jpg</thumbPath>
+<imageWidth>800</imageWidth>
+<imageHeight>450</imageHeight>
+<zoom>off</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>youtube</media>
+<youtube>uUoVCd7QB-0</youtube>
+<startFrame>0</startFrame>
+<quality>large</quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">NICOLE VERETTI</font><br><font color = "#ffffff" size ="8">Collection by Sam Jacobson</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">NICOLE VERETTI - Collection by Sam Jacobson</font><br><font color = "#ffffff" size ="8">Set a description for each image in the xml. This text field is html formatted text. </font><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen>off</fullscreen>
+</slide>
+
+<slide>
+<imagePath></imagePath>
+<thumbPath>images/traditional_gallery_video/thumbs/thumb6.jpg</thumbPath>
+<imageWidth>700</imageWidth>
+<imageHeight>396</imageHeight>
+<zoom>on</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>youtube</media>
+<youtube>PzMpnqR-akU</youtube>
+<startFrame>0</startFrame>
+<quality>hd1080</quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">LINDA FIORENTI</font><br><font color = "#ffffff" size ="8">Collection by Victor Beninni</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">LINDA FIORENTI - Collection by Victor Beninni</font><br><font color = "#ffffff" size ="8">Set a description for each image in the xml. This text field is html formatted text. </font><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen>on</fullscreen>
+</slide>
+
+<slide>
+<imagePath></imagePath>
+<thumbPath>images/traditional_gallery_video/thumbs/thumb7.jpg</thumbPath>
+<imageWidth>800</imageWidth>
+<imageHeight>450</imageHeight>
+<zoom>off</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>youtube</media>
+<youtube>_17awYDNREI</youtube>
+<startFrame>0</startFrame>
+<quality>large</quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">AMBER JACOBS</font><br><font color = "#ffffff" size ="8">Collection by Linda Macarthy</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">AMBER JACOBS - Collection by Linda Macarthy</font><br><font color = "#ffffff" size ="8">Set a description for each image in the xml. Also add links. </font><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen>off</fullscreen>
+</slide>
+
+</slideshowData>

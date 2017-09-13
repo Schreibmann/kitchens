@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<playlist onStart="normal" list="on" hoverColor="0x111111">
+
+<song> 
+<path>track/ive_got_sunshine_plastic3.mp3</path>
+<title><![CDATA[Plastic3<br>"I've Got Sunshine"<br><a href="http://www.audiojungle.net" target="_blank"><font color="#006699"> Available on Audiojungle</font>]]></title>
+<caption><![CDATA[1. Plastic3 - I've Got Sunshine]]></caption>
+<cover>images/albums/image1.jpg</cover>
+</song>
+
+<song> 
+<path>track/mirror_of_time.mp3</path>
+<title><![CDATA[Plastic3<br>"The Mirror of Time"<br><a href="http://www.audiojungle.net" target="_blank"><font color="#006699"> Available on Audiojungle</font>]]></title>
+<caption><![CDATA[2. Plastic3 - The Mirror of Time]]></caption>
+<cover>images/albums/image2.jpg</cover>
+</song>
+
+<song> 
+<path>track/upstream.mp3</path>
+<title><![CDATA[Plastic3<br>"Upstream"<br><a href="http://www.audiojungle.net" target="_blank"><font color="#006699"> Available on Audiojungle</font>]]></title>
+<caption><![CDATA[3. Plastic3 - Upstream]]></caption>
+<cover>images/albums/image3.jpg</cover>
+</song>
+
+<song> 
+<path>track/ive_got_sunshine_plastic3.mp3</path>
+<title><![CDATA[Plastic3<br>"I've Got Sunshine"<br><a href="http://www.audiojungle.net" target="_blank"><font color="#006699"> Available on Audiojungle</font>]]></title>
+<caption><![CDATA[4. Plastic3 - I've Got Sunshine]]></caption>
+<cover>images/albums/image1.jpg</cover>
+</song>
+
+<song> 
+<path>track/mirror_of_time.mp3</path>
+<title><![CDATA[Plastic3<br>"The Mirror of Time"<br><a href="http://www.audiojungle.net" target="_blank"><font color="#006699"> Available on Audiojungle</font>]]></title>
+<caption><![CDATA[5. Plastic3 - The Mirror of Time]]></caption>
+<cover>images/albums/image2.jpg</cover>
+</song>
+
+<song> 
+<path>track/upstream.mp3</path>
+<title><![CDATA[Plastic3<br>"Upstream"<br><a href="http://www.audiojungle.net" target="_blank"><font color="#006699"> Available on Audiojungle</font>]]></title>
+<caption><![CDATA[6. Plastic3 - Upstream]]></caption>
+<cover>images/albums/image3.jpg</cover>
+</song>
+
+</playlist>

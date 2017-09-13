@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<slideshowData 
+	speed="10"
+	border="10"
+	scrubColor="0x006699" 
+	buttons="on"
+	description="on"
+	overlay="off"
+	position="left">
+
+<slide>
+<imagePath>images/traditional_gallery_multi/large/classika_1.jpg</imagePath>
+<thumbPath>images/traditional_gallery_multi/thumbs/classika_th_1.jpg</thumbPath>
+<imageWidth>700</imageWidth>
+<imageHeight>487</imageHeight>
+<zoom>on</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="12">Вазари</font><br><font color = "#ffffff" size ="12">Фасады из массива</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="16">Кухня Вазари</font><br><font color = "#ffffff" size ="12">Фасады  покрыты тремя слоя лака с применением обработки патинирование.</font><br><a href="/#contact.swf"><font color="#006699" size="12">Заказать расчёт</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery_multi/large/classika_2.jpg</imagePath>
+<thumbPath>images/traditional_gallery_multi/thumbs/classika_th_2.jpg</thumbPath>
+<imageWidth>700</imageWidth>
+<imageHeight>487</imageHeight>
+<zoom>on</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Бостон</font><br><font color = "#ffffff" size ="8">16 вариантов цветов</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">Бостон - кухня их МДФ с эмалью и шпоном</font><br><font color = "#ffffff" size ="8">Вы можете узнать у кухни больше</font><br><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery_multi/large/classika_3.jpg</imagePath>
+<thumbPath>images/traditional_gallery_multi/thumbs/classika_th_3.jpg</thumbPath>
+<imageWidth>700</imageWidth>
+<imageHeight>487</imageHeight>
+<zoom>on</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Бостон</font><br><font color = "#ffffff" size ="8">16 вариантов цветов</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">Бостон - кухня их МДФ с эмалью и шпоном</font><br><font color = "#ffffff" size ="8">Вы можете узнать у кухни больше</font><br><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery_multi/large/classika_4.jpg</imagePath>
+<thumbPath>images/traditional_gallery_multi/thumbs/classika_th_4.jpg</thumbPath>
+<imageWidth>700</imageWidth>
+<imageHeight>487</imageHeight>
+<zoom>on</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Бостон</font><br><font color = "#ffffff" size ="8">16 вариантов цветов</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">Бостон - кухня их МДФ с эмалью и шпоном</font><br><font color = "#ffffff" size ="8">Вы можете узнать у кухни больше</font><br><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery_multi/large/classika_5.jpg</imagePath>
+<thumbPath>images/traditional_gallery_multi/thumbs/classika_th_5.jpg</thumbPath>
+<imageWidth>700</imageWidth>
+<imageHeight>487</imageHeight>
+<zoom>on</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Бостон</font><br><font color = "#ffffff" size ="8">16 вариантов цветов</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">Бостон - кухня их МДФ с эмалью и шпоном</font><br><font color = "#ffffff" size ="8">Вы можете узнать у кухни больше</font><br><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery_multi/large/classika_6.jpg</imagePath>
+<thumbPath>images/traditional_gallery_multi/thumbs/classika_th_6.jpg</thumbPath>
+<imageWidth>700</imageWidth>
+<imageHeight>487</imageHeight>
+<zoom>on</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Бостон</font><br><font color = "#ffffff" size ="8">16 вариантов цветов</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">Бостон - кухня их МДФ с эмалью и шпоном</font><br><font color = "#ffffff" size ="8">Вы можете узнать у кухни больше</font><br><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery_multi/large/classika_7.jpg</imagePath>
+<thumbPath>images/traditional_gallery_multi/thumbs/classika_th_7.jpg</thumbPath>
+<imageWidth>700</imageWidth>
+<imageHeight>487</imageHeight>
+<zoom>on</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Бостон</font><br><font color = "#ffffff" size ="8">16 вариантов цветов</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">Бостон - кухня их МДФ с эмалью и шпоном</font><br><font color = "#ffffff" size ="8">Вы можете узнать у кухни больше</font><br><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery_multi/large/classika_8.jpg</imagePath>
+<thumbPath>images/traditional_gallery_multi/thumbs/classika_th_8.jpg</thumbPath>
+<imageWidth>700</imageWidth>
+<imageHeight>487</imageHeight>
+<zoom>on</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Бостон</font><br><font color = "#ffffff" size ="8">16 вариантов цветов</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">Бостон - кухня их МДФ с эмалью и шпоном</font><br><font color = "#ffffff" size ="8">Вы можете узнать у кухни больше</font><br><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery_multi/large/classika_9.jpg</imagePath>
+<thumbPath>images/traditional_gallery_multi/thumbs/classika_th_9.jpg</thumbPath>
+<imageWidth>700</imageWidth>
+<imageHeight>487</imageHeight>
+<zoom>on</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Бостон</font><br><font color = "#ffffff" size ="8">16 вариантов цветов</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">Бостон - кухня их МДФ с эмалью и шпоном</font><br><font color = "#ffffff" size ="8">Вы можете узнать у кухни больше</font><br><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery_multi/large/classika_10.jpg</imagePath>
+<thumbPath>images/traditional_gallery_multi/thumbs/classika_th_10.jpg</thumbPath>
+<imageWidth>700</imageWidth>
+<imageHeight>487</imageHeight>
+<zoom>on</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Бостон</font><br><font color = "#ffffff" size ="8">16 вариантов цветов</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">Бостон - кухня их МДФ с эмалью и шпоном</font><br><font color = "#ffffff" size ="8">Вы можете узнать у кухни больше</font><br><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery_multi/large/classika_11.jpg</imagePath>
+<thumbPath>images/traditional_gallery_multi/thumbs/classika_th_11.jpg</thumbPath>
+<imageWidth>700</imageWidth>
+<imageHeight>487</imageHeight>
+<zoom>on</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Бостон</font><br><font color = "#ffffff" size ="8">16 вариантов цветов</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">Бостон - кухня их МДФ с эмалью и шпоном</font><br><font color = "#ffffff" size ="8">Вы можете узнать у кухни больше</font><br><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery_multi/large/classika_12.jpg</imagePath>
+<thumbPath>images/traditional_gallery_multi/thumbs/classika_th_12.jpg</thumbPath>
+<imageWidth>700</imageWidth>
+<imageHeight>487</imageHeight>
+<zoom>on</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Бостон</font><br><font color = "#ffffff" size ="8">16 вариантов цветов</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">Бостон - кухня их МДФ с эмалью и шпоном</font><br><font color = "#ffffff" size ="8">Вы можете узнать у кухни больше</font><br><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery_multi/large/classika_13.jpg</imagePath>
+<thumbPath>images/traditional_gallery_multi/thumbs/classika_th_13.jpg</thumbPath>
+<imageWidth>700</imageWidth>
+<imageHeight>487</imageHeight>
+<zoom>on</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Бостон</font><br><font color = "#ffffff" size ="8">16 вариантов цветов</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">Бостон - кухня их МДФ с эмалью и шпоном</font><br><font color = "#ffffff" size ="8">Вы можете узнать у кухни больше</font><br><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+
+
+</slideshowData>

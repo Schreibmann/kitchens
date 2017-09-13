@@ -1,0 +1,964 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <itemContent>
+    <smallInfo>
+      <name>Леонардо</name>
+      <pic>images/gallery_classic/leonardo/big_1.jpg</pic>
+    </smallInfo>
+    <fullInfo>
+      <name>Кухня ЛЕОНАРДО</name>
+      <picBigs>
+        <pic>images/gallery_classic/leonardo/big_1.jpg</pic>
+        <pic>images/gallery_classic/leonardo/big_2.jpg</pic>
+        <pic>images/gallery_classic/leonardo/big_3.jpg</pic>
+      </picBigs>
+      <smallPics>
+        <pic>images/gallery_classic/leonardo/small_1.jpg</pic>
+        <pic>images/gallery_classic/leonardo/small_2.jpg</pic>
+        <pic>images/gallery_classic/leonardo/small_3.jpg</pic>
+      </smallPics>
+      <info><![CDATA[Леонардо – одна из самых удачных моделей, представленной на нашем рынке итальянской фабрикой . Достаточно одного взгляда на кухню Леонардо, чтобы безошибочно определить, что дизайнеры черпали вдохновение у стиля ренессанс. В то же время, данную модель нельзя назвать традиционной представительницей стиля, скорее, это его современная переработка. Сохраняя строгие формы, кухня Леонардо лишена чрезмерной массивности, присущей моделям классического стиля. Такая мебель будет вполне уместна на любой кухне.
+Фасады цвета слоновой кости, отделанные золотой патиной, изготовлены с применением массива. При составлении дизайн-проекта мы всегда рекомендуем декорировать кухню Леонардо роскошными колоннами, витражами и порталом для вытяжки. Эти элементы идеально гармонируют со строгими прямыми линиями фасадов, придавая кухне еще более утонченный и изысканный вид.]]></info>
+      <colorPics>
+        <pic>images/gallery_classic/leonardo/f1.jpg</pic>
+        <pic>images/gallery_classic/leonardo/f2.jpg</pic>
+        <pic>images/gallery_classic/leonardo/f3.jpg</pic>
+        <pic>images/gallery_classic/leonardo/f4.jpg</pic>
+        <pic>images/gallery_classic/leonardo/f5.jpg</pic>
+        <pic>images/gallery_classic/leonardo/f6.jpg</pic>
+        <pic>images/gallery_classic/leonardo/f7.jpg</pic>
+      </colorPics>
+    </fullInfo>
+  </itemContent>
+  <itemContent>
+    <smallInfo>
+      <name>Альба Бьянко</name>
+      <pic>images/gallery_classic/alba_bianco/big_1.jpg</pic>
+    </smallInfo>
+    <fullInfo>
+      <name>Кухня АЛЬБА БЬЯНКО</name>
+      <picBigs>
+        <pic>images/gallery_classic/alba_bianco/big_1.jpg</pic>
+        <pic>images/gallery_classic/alba_bianco/big_2.jpg</pic>
+        <pic>images/gallery_classic/alba_bianco/big_3.jpg</pic>
+      </picBigs>
+      <smallPics>
+        <pic>images/gallery_classic/alba_bianco/small_1.jpg</pic>
+        <pic>images/gallery_classic/alba_bianco/small_2.jpg</pic>
+        <pic>images/gallery_classic/alba_bianco/small_3.jpg</pic>
+      </smallPics>
+      <info><![CDATA[Функциональная и элегантная, универсальная и открытая, лаконичная и инновационная, модель Альба Бьянко непринужденно интерпретирует кухонную обстановку в современном ключе. Используемые материалы и структурные элементы позволяют по новому оформить кухню, вывести ее за рамки сложившихся представлений.]]></info>
+      <colorPics>
+        <pic>images/gallery_classic/alba_bianco/f1.jpg</pic>
+        <pic>images/gallery_classic/alba_bianco/f2.jpg</pic>
+      </colorPics>
+    </fullInfo>
+  </itemContent>
+  <itemContent>
+    <smallInfo>
+      <name>Альба Гриджо</name>
+      <pic>images/gallery_classic/alba_gridjo/big_1.jpg</pic>
+    </smallInfo>
+    <fullInfo>
+      <name>Кухня АЛЬБА ГРИДЖО</name>
+      <picBigs>
+        <pic>images/gallery_classic/alba_gridjo/big_1.jpg</pic>
+        <pic>images/gallery_classic/alba_gridjo/big_2.jpg</pic>
+        <pic>images/gallery_classic/alba_gridjo/big_3.jpg</pic>
+      </picBigs>
+      <smallPics>
+        <pic>images/gallery_classic/alba_gridjo/small_1.jpg</pic>
+        <pic>images/gallery_classic/alba_gridjo/small_2.jpg</pic>
+        <pic>images/gallery_classic/alba_gridjo/small_3.jpg</pic>
+      </smallPics>
+      <info><![CDATA[ Итальянская деревянная кухня «Альба-Гриджо» внесет в любой интерьер особое настроение. Кухня выполнена из массива ясеня, а четкие геометрические линии только подчеркивают ее принадлежность к современной эпохе. Благодаря широкой размерной сетке кухонная композиция «Альба-Гриджо» впишется и в квартиру, и в загородный дом.
+Итальянские мастера воплотили в кухне «Альба-Гриджо» сочетание утонченности и сдержанности. Такая кухня способна создать кухонный интерьер в гармонии с современным образом жизни. ]]></info>
+      <colorPics>
+        <pic>images/gallery_classic/alba_gridjo/f1.jpg</pic>
+        <pic>images/gallery_classic/alba_gridjo/f2.jpg</pic>
+      </colorPics>
+    </fullInfo>
+  </itemContent>
+  <itemContent>
+    <smallInfo>
+      <name>Акация</name>
+      <pic>images/gallery_classic/acacia/big_1.jpg</pic>
+    </smallInfo>
+    <fullInfo>
+      <name>Кухня АКАЦИЯ</name>
+      <picBigs>
+        <pic>images/gallery_classic/acacia/big_1.jpg</pic>
+        <pic>images/gallery_classic/acacia/big_2.jpg</pic>
+        <pic>images/gallery_classic/acacia/big_3.jpg</pic>
+      </picBigs>
+      <smallPics>
+        <pic>images/gallery_classic/acacia/small_1.jpg</pic>
+        <pic>images/gallery_classic/acacia/small_2.jpg</pic>
+        <pic>images/gallery_classic/acacia/small_3.jpg</pic>
+      </smallPics>
+      <info><![CDATA[Мебель из золотистой акации, словно специально создана для поклонников классической элегантности, размеренности и постоянства. Красивая снаружи и функциональная внутри, эта модель создает в доме настроение спокойствия и безмятежности.
+Варианты фасадов:]]></info>
+      <colorPics>
+        <pic>images/gallery_classic/acacia/f1.png</pic>
+        <pic>images/gallery_classic/acacia/f2.png</pic>
+        <pic>images/gallery_classic/acacia/f3.png</pic>
+        <pic>images/gallery_classic/acacia/f4.png</pic>
+        <pic>images/gallery_classic/acacia/f5.png</pic>
+        <pic>images/gallery_classic/acacia/f6.png</pic>
+        <pic>images/gallery_classic/acacia/f7.png</pic>
+        <pic>images/gallery_classic/acacia/f8.png</pic>
+        <pic>images/gallery_classic/acacia/f9.png</pic>
+      </colorPics>
+    </fullInfo>
+  </itemContent>
+  
+<itemContent>
+    <smallInfo>
+      <name>Амати</name>
+      <pic>images/gallery_classic/amati/big_1.jpg</pic>
+    </smallInfo>
+    <fullInfo>
+      <name>Кухня АМАТИ</name>
+      <picBigs>
+        <pic>images/gallery_classic/amati/big_1.jpg</pic>
+        <pic>images/gallery_classic/amati/big_2.jpg</pic>
+        <pic>images/gallery_classic/amati/big_3.jpg</pic>
+      </picBigs>
+      <smallPics>
+        <pic>images/gallery_classic/amati/small_1.jpg</pic>
+        <pic>images/gallery_classic/amati/small_2.jpg</pic>
+        <pic>images/gallery_classic/amati/small_3.jpg</pic>
+      </smallPics>
+      <info><![CDATA[Кухня «Амати» - олицетворение домашней, семейной обстановки, гармонии и комфорта.
+Выполненная в благородных цветах и покрытая патиной, модель создает особую обстановку, придающую кухне атмосферу спокойствия и умиротворения. ]]></info>
+      <colorPics>
+        <pic>images/gallery_classic/amati/f1.jpg</pic>
+        <pic>images/gallery_classic/amati/f2.jpg</pic>
+        <pic>images/gallery_classic/amati/f3.jpg</pic>
+        <pic>images/gallery_classic/amati/f4.jpg</pic>
+        <pic>images/gallery_classic/amati/f5.jpg</pic>
+        <pic>images/gallery_classic/amati/f6.jpg</pic>
+        <pic>images/gallery_classic/amati/f7.jpg</pic>
+        <pic>images/gallery_classic/amati/f8.jpg</pic>
+        <pic>images/gallery_classic/amati/f9.jpg</pic>
+      </colorPics>
+    </fullInfo>
+  </itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Арена</name>
+    <pic>images/gallery_classic/arena/big_1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Арена</name>
+    <picBigs>
+      <pic>images/gallery_classic/arena/big_1.jpg</pic>
+      <pic>images/gallery_classic/arena/big_2.jpg</pic>
+      <pic>images/gallery_classic/arena/big_3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/arena/small_1.jpg</pic>
+      <pic>images/gallery_classic/arena/small_2.jpg</pic>
+      <pic>images/gallery_classic/arena/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Неподвластная времени элегантность кухни "Арена" удовлетворит самый утонченный вкус. Чистота форм и филигранная работа итальянских мастеров, воплощенная в модели, создают благородный классический интерьер.]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/arena/f1.jpg</pic>
+      <pic>images/gallery_classic/arena/f2.jpg</pic>
+      <pic>images/gallery_classic/arena/f3.jpg</pic>
+      <pic>images/gallery_classic/arena/f4.jpg</pic>
+      <pic>images/gallery_classic/arena/f5.jpg</pic>
+      <pic>images/gallery_classic/arena/f6.jpg</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Аризона</name>
+    <pic>images/gallery_classic/arizona/big_1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Аризона</name>
+    <picBigs>
+      <pic>images/gallery_classic/arizona/big_1.jpg</pic>
+      <pic>images/gallery_classic/arizona/big_2.jpg</pic>
+      <pic>images/gallery_classic/arizona/big_3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/arizona/small_1.jpg</pic>
+      <pic>images/gallery_classic/arizona/small_2.jpg</pic>
+      <pic>images/gallery_classic/arizona/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Кухня и Гостиная «Аризона» — простота и естественность, красота и гармония, возвращение к подлинным ценностям.]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/arizona/f1.jpg</pic>
+      <pic>images/gallery_classic/arizona/f2.jpg</pic>
+      <pic>images/gallery_classic/arizona/f3.jpg</pic>
+      <pic>images/gallery_classic/arizona/f4.jpg</pic>
+      <pic>images/gallery_classic/arizona/f5.jpg</pic>
+      <pic>images/gallery_classic/arizona/f6.jpg</pic>
+      <pic>images/gallery_classic/arizona/f7.jpg</pic>
+      <pic>images/gallery_classic/arizona/f8.jpg</pic>
+      <pic>images/gallery_classic/arizona/f9.jpg</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Бергонцо</name>
+    <pic>images/gallery_classic/bergonco/big_1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Бергонцо</name>
+    <picBigs>
+      <pic>images/gallery_classic/Bergonco/big_1.jpg</pic>
+      <pic>images/gallery_classic/Bergonco/big_2.jpg</pic>
+      <pic>images/gallery_classic/Bergonco/big_3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/Bergonco/small_1.jpg</pic>
+      <pic>images/gallery_classic/Bergonco/small_2.jpg</pic>
+      <pic>images/gallery_classic/Bergonco/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Традиционная элегантность дизайна, безупречное сочетание эстетики и функциональности, формы и содержания - все это кухня "Бергонцо".]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/Bergonco/f1.jpg</pic>
+      <pic>images/gallery_classic/Bergonco/f2.jpg</pic>
+      <pic>images/gallery_classic/Bergonco/f3.jpg</pic>
+      <pic>images/gallery_classic/Bergonco/f4.jpg</pic>
+      <pic>images/gallery_classic/Bergonco/f5.jpg</pic>
+      <pic>images/gallery_classic/Bergonco/f6.jpg</pic>
+      <pic>images/gallery_classic/Bergonco/f7.jpg</pic>
+      <pic>images/gallery_classic/Bergonco/f8.jpg</pic>
+      <pic>images/gallery_classic/Bergonco/f9.jpg</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Белотто</name>
+    <pic>images/gallery_classic/belotto/big_1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Белотто</name>
+    <picBigs>
+      <pic>images/gallery_classic/belotto/big_1.jpg</pic>
+      <pic>images/gallery_classic/belotto/big_2.jpg</pic>
+      <pic>images/gallery_classic/belotto/big_3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/belotto/small_1.jpg</pic>
+      <pic>images/gallery_classic/belotto/small_2.jpg</pic>
+      <pic>images/gallery_classic/belotto/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Кухня Беллотто стала одной из главных новинок 2011 года. Ее элегантные фасады белого цвета с серебристой патиной целиком изготовлены из массива ясеня.
+Кухня Беллотто, была создана на итальянской фабрике Attimec в качестве менее недорогой альтернативы их топовой модели Руджери. Беллотто имеет несколько упрощенные фасады и более скромный выбор декоративных элементов, но при этом обладает неоспоримым преимуществом - фасады из натурального ясеня предлагаются по очень привлекательным ценам.]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/belotto/f1.jpg</pic>
+      <pic>images/gallery_classic/belotto/f2.jpg</pic>
+      <pic>images/gallery_classic/belotto/f3.jpg</pic>
+      <pic>images/gallery_classic/belotto/f4.jpg</pic>
+      <pic>images/gallery_classic/belotto/f5.jpg</pic>
+      <pic>images/gallery_classic/belotto/f6.jpg</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Донателло</name>
+    <pic>images/gallery_classic/donatello/big_1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Донателло</name>
+    <picBigs>
+      <pic>images/gallery_classic/donatello/big_1.jpg</pic>
+      <pic>images/gallery_classic/donatello/big_2.jpg</pic>
+      <pic>images/gallery_classic/donatello/big_3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/donatello/small_1.jpg</pic>
+      <pic>images/gallery_classic/donatello/small_2.jpg</pic>
+      <pic>images/gallery_classic/donatello/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Безупречный стиль, традиционный итальянский дизайн и лёгкость линий кухонного гарнитура «Донателло», несомненно, придутся по вкусу ценителям классических кухонь из натурального дерева.
+Фасады кухни выполнены из массива черешни. Наличие декоративной косички не только на фасаде, но и на всех элементах кухни придаёт ей неповторимый знак собственного отличия в многообразии кухонь традиционного, классического стиля. Необычный витраж с золотистым вензелем добавляет кухне богатства и индивидуальности.
+
+Помимо превосходного внешнего вида, кухонный гарнитур «Донателло» оснащается самой современной фурнитурой и позволяет максимально эффективно располагать многочисленную кухонную утварь.
+
+Кухонный гарнитур «Донателло» для стильных, респектабельных интерьеров, призван создать домашний комфорт и уют.]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/donatello/f1.jpg</pic>
+      <pic>images/gallery_classic/donatello/f2.jpg</pic>
+      <pic>images/gallery_classic/donatello/f3.jpg</pic>
+      <pic>images/gallery_classic/donatello/f4.jpg</pic>
+      <pic>images/gallery_classic/donatello/f5.jpg</pic>
+      <pic>images/gallery_classic/donatello/f6.jpg</pic>
+      <pic>images/gallery_classic/donatello/f7.jpg</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Гальяно</name>
+    <pic>images/gallery_classic/galyano/big_1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Гальяно</name>
+    <picBigs>
+      <pic>images/gallery_classic/galyano/big_1.jpg</pic>
+      <pic>images/gallery_classic/galyano/big_2.jpg</pic>
+      <pic>images/gallery_classic/galyano/big_3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/galyano/small_1.jpg</pic>
+      <pic>images/gallery_classic/galyano/small_2.jpg</pic>
+      <pic>images/gallery_classic/galyano/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Модель "Гальяно" выглядит легко и органично в современном интерьере. Изысканная, элегантность аксессуаров, подчеркнутая серебряной патиной структура древесины и глубокий черный колор создают на кухне атмосферу изящества и сдержанной роскоши.]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/galyano/f1.jpg</pic>
+      <pic>images/gallery_classic/galyano/f2.jpg</pic>
+      <pic>images/gallery_classic/galyano/f3.jpg</pic>
+      <pic>images/gallery_classic/galyano/f4.jpg</pic>
+      <pic>images/gallery_classic/galyano/f5.jpg</pic>
+      <pic>images/gallery_classic/galyano/f6.jpg</pic>
+      <pic>images/gallery_classic/galyano/f7.jpg</pic>
+      <pic>images/gallery_classic/galyano/f8.jpg</pic>
+      <pic>images/gallery_classic/galyano/f9.jpg</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Джотто</name>
+    <pic>images/gallery_classic/giotto/big1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Джотто</name>
+    <picBigs>
+      <pic>images/gallery_classic/giotto/big1.jpg</pic>
+      <pic>images/gallery_classic/giotto/big2.jpg</pic>
+      <pic>images/gallery_classic/giotto/big3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/giotto/small_1.jpg</pic>
+      <pic>images/gallery_classic/giotto/small_2.jpg</pic>
+      <pic>images/gallery_classic/giotto/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Кухонный гарнитур «Джотто» - всегда актуальная классика, неподвластная времени. Фасад выполнен из массива красной ольхи и покрыт тремя слоями лака. Такая кухня излучает теплоту и создает неповторимый уют. Модель «Джотто» помогает придать благородности интерьеру вашей кухне, соединяя в себе традиционную элегантность композиции и высочайшее качество используемых материалов. Кухня «Джотто» современна и динамична благодаря широчайшему набору комплектующих, большой системе стеллажей, полок и витражей. Декоративные элементы так же подчеркивают достоинство кухонного гарнитура. ]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/giotto/f1.jpg</pic>
+      <pic>images/gallery_classic/giotto/f2.jpg</pic>
+      <pic>images/gallery_classic/giotto/f3.jpg</pic>
+      <pic>images/gallery_classic/giotto/f4.jpg</pic>
+      <pic>images/gallery_classic/giotto/f5.jpg</pic>
+      <pic>images/gallery_classic/giotto/f6.jpg</pic>
+      <pic>images/gallery_classic/giotto/f7.jpg</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Гуарди</name>
+    <pic>images/gallery_classic/guardi/big1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Гуарди</name>
+    <picBigs>
+      <pic>images/gallery_classic/guardi/big1.jpg</pic>
+      <pic>images/gallery_classic/guardi/big2.jpg</pic>
+      <pic>images/gallery_classic/guardi/big3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/guardi/small_1.jpg</pic>
+      <pic>images/gallery_classic/guardi/small_2.jpg</pic>
+      <pic>images/gallery_classic/guardi/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Классическая кухня «Гуарди»  - органичное сочетание итальянского качества, элегантности и современных функциональных решений. Фасад выполнен из высококачественного натурального материала – массива ясеня, с применением технологии искусственного старения и окрашенного в три слоя лака. Благодаря применению современных технологий значительно улучшаются эксплуатационные характеристики гарнитура, все изделие приобретает законченность в формах и оригинальных дизайнерских решениях. Вся конструкция мебельного гарнитура спроектирована так, чтобы все находилось под рукой. Кухня не переполнена лишними элементами, в модели все практично и удобно.]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/guardi/f1.jpg</pic>
+      <pic>images/gallery_classic/guardi/f2.jpg</pic>
+      <pic>images/gallery_classic/guardi/f3.jpg</pic>
+      <pic>images/gallery_classic/guardi/f4.jpg</pic>
+      <pic>images/gallery_classic/guardi/f5.jpg</pic>
+      <pic>images/gallery_classic/guardi/f6.jpg</pic>
+      <pic>images/gallery_classic/guardi/f7.jpg</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Гварнери</name>
+    <pic>images/gallery_classic/gvarneri/big1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Гварнери</name>
+    <picBigs>
+      <pic>images/gallery_classic/gvarneri/big1.jpg</pic>
+      <pic>images/gallery_classic/gvarneri/big2.jpg</pic>
+      <pic>images/gallery_classic/gvarneri/big3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/gvarneri/small_1.jpg</pic>
+      <pic>images/gallery_classic/gvarneri/small_2.jpg</pic>
+      <pic>images/gallery_classic/gvarneri/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Темная, надежная модель «Гварнери»  - воплощение уверенности и основательности. Фасады изготовлены из массива акации, окрашены в три слоя лака.  Модель сочетает в себе строгие формы и изящные детали, массивные фасады  и изогнутые вставки, резные полочки и уникальные угловые секции. Кухонные гарнитуры «Гварнери» имеют широкий набор комплектаций, включая стеллажи, полки, тонированные стекла для витрин. Эта классическая модель создает ощущение мягкого комфорта и богатства.]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/gvarneri/f1.jpg</pic>
+      <pic>images/gallery_classic/gvarneri/f2.jpg</pic>
+      <pic>images/gallery_classic/gvarneri/f3.jpg</pic>
+      <pic>images/gallery_classic/gvarneri/f4.jpg</pic>
+      <pic>images/gallery_classic/gvarneri/f5.jpg</pic>
+      <pic>images/gallery_classic/gvarneri/f6.jpg</pic>
+      <pic>images/gallery_classic/gvarneri/f7.jpg</pic>
+      <pic>images/gallery_classic/gvarneri/f8.jpg</pic>
+      <pic>images/gallery_classic/gvarneri/f9.jpg</pic>
+      <pic>images/gallery_classic/gvarneri/f10.jpg</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Имола</name>
+    <pic>images/gallery_classic/imola/big1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Имола</name>
+    <picBigs>
+      <pic>images/gallery_classic/imola/big1.jpg</pic>
+      <pic>images/gallery_classic/imola/big2.jpg</pic>
+      <pic>images/gallery_classic/imola/big3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/imola/small_1.jpg</pic>
+      <pic>images/gallery_classic/imola/small_2.jpg</pic>
+      <pic>images/gallery_classic/imola/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Кухня «Имола» – яркий пример итальянского дизайна.  Фасад, выполненный из массива липы со шпоном вишни, специальным образом обработан по  технологии искусственного старения, поэтому нечувствителен к перепадам температуры и влажности, не подвержен рассыханию. В производстве используются только натуральные, экологически чистые материалы, что способствует улучшению эксплуатационных качеств и долговечности модели. Барная стойка придает конфигурации дополнительное удобство, практичность и завершенность создаваемого благородного классического образа. Оригинальность гарнитура в сочетании классического темного цвета натурального дерева с оригинальной фрезеровкой на дверях. Мощные классические формы кухни Имола идеально гармонируют со строгостью и лаконичностью линий дизайна. Модель многофункциональна и надежна в эксплуатации благодаря использованию в производстве новейших технологий.]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/imola/f1.jpg</pic>
+      <pic>images/gallery_classic/imola/f2.jpg</pic>
+      <pic>images/gallery_classic/imola/f3.jpg</pic>
+      <pic>images/gallery_classic/imola/f4.jpg</pic>
+      <pic>images/gallery_classic/imola/f5.jpg</pic>
+      <pic>images/gallery_classic/imola/f6.jpg</pic>
+      <pic>images/gallery_classic/imola/f7.jpg</pic>
+      <pic>images/gallery_classic/imola/f8.jpg</pic>
+      <pic>images/gallery_classic/imola/f9.jpg</pic>
+      
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Каррара</name>
+    <pic>images/gallery_classic/karrara/big1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Каррара</name>
+    <picBigs>
+      <pic>images/gallery_classic/karrara/big1.jpg</pic>
+      <pic>images/gallery_classic/karrara/big2.jpg</pic>
+      <pic>images/gallery_classic/karrara/big3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/karrara/small_1.jpg</pic>
+      <pic>images/gallery_classic/karrara/small_2.jpg</pic>
+      <pic>images/gallery_classic/karrara/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Кухонный гарнитур в классическом стиле Каррара выполнен без вычурных излишеств. Простые и лаконичные формы кухни Каррара  гармонично впишутся в любой интерьер, украшая его оригинальной цветовой гаммой.
+
+  Фасады кухни Каррара изготовлены в Италии из массива ясеня и тонированы методом старения, который  подчеркивает благородство текстуры  древесины.  По краям рамки имитация соединения деревянными шплинтами . Толщина фасадов 25 мм.]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/karrara/f1.jpg</pic>
+      <pic>images/gallery_classic/karrara/f2.jpg</pic>
+      <pic>images/gallery_classic/karrara/f3.jpg</pic>
+      <pic>images/gallery_classic/karrara/f4.jpg</pic>
+      <pic>images/gallery_classic/karrara/f5.jpg</pic>
+      <pic>images/gallery_classic/karrara/f6.jpg</pic>
+      <pic>images/gallery_classic/karrara/f7.jpg</pic>
+      <pic>images/gallery_classic/karrara/f8.jpg</pic>
+      <pic>images/gallery_classic/karrara/f9.jpg</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Колизей</name>
+    <pic>images/gallery_classic/kolizei/big1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Колизей</name>
+    <picBigs>
+      <pic>images/gallery_classic/kolizei/big1.jpg</pic>
+      <pic>images/gallery_classic/kolizei/big2.jpg</pic>
+      <pic>images/gallery_classic/kolizei/big3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/kolizei/small_1.jpg</pic>
+      <pic>images/gallery_classic/kolizei/small_2.jpg</pic>
+      <pic>images/gallery_classic/kolizei/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Кухня «Колизей» – образец мебели в лучших традициях итальянского стиля. В производстве кухни используются экологически чистые и качественные материалы: массив выполнен из натуральной древесины (массив акации), окрашен с применением технологии «Де Капе», в три слоя лака.  Кухня функциональна благодаря особому вниманию к мелочам, для удовлетворения любых потребностей и использованию самой современной технологии в изготовлении мебели. Ярко выраженная фактура натурального дерева. Гармонию и уют подчеркивают матовое покрытие, цвета слоновой кости, плавные форма фасадов, застекленные  витражи и рельефные карниз. Благородный дизайн, керамические ручки с изящным рисунком, контрастное сочетание светлых фасадов и темной столешницы подчеркивают индивидуальность кухонного гарнитура Колизей.]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/kolizei/f1.jpg</pic>
+      <pic>images/gallery_classic/kolizei/f2.jpg</pic>
+      <pic>images/gallery_classic/kolizei/f3.jpg</pic>
+      <pic>images/gallery_classic/kolizei/f4.jpg</pic>
+      <pic>images/gallery_classic/kolizei/f5.jpg</pic>
+      <pic>images/gallery_classic/kolizei/f6.jpg</pic>
+      <pic>images/gallery_classic/kolizei/f7.jpg</pic>
+      <pic>images/gallery_classic/kolizei/f8.jpg</pic>
+      <pic>images/gallery_classic/kolizei/f9.jpg</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Луизиана</name>
+    <pic>images/gallery_classic/luiziana/big1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Луизиана</name>
+    <picBigs>
+      <pic>images/gallery_classic/luiziana/big1.jpg</pic>
+      <pic>images/gallery_classic/luiziana/big2.jpg</pic>
+      <pic>images/gallery_classic/luiziana/big3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/luiziana/small_1.jpg</pic>
+      <pic>images/gallery_classic/luiziana/small_2.jpg</pic>
+      <pic>images/gallery_classic/luiziana/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Кухня «Луизиана» -  современная красота классических форм. Фасад - сочетание массива березы и шпона черешни, покрытые тремя слоями лака с использованием технологии старения и  патиной, создадут неповторимую атмосферу на вашей кухне. Благодаря использованию современных методов обработки массива дерева, кухонная мебель Луизиана не боится влажности, капель жира, перепадов температуры, что позволяет ей служить вам долгие годы.  По вашему желанию кухонный гарнитур может быть оснащен высокотехнологичной фурнитурой и бытовой техникой.  Гарнитур выдержан в едином уникальном и неповторимом стиле.]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/luiziana/f1.jpg</pic>
+      <pic>images/gallery_classic/luiziana/f2.jpg</pic>
+      <pic>images/gallery_classic/luiziana/f3.jpg</pic>
+      <pic>images/gallery_classic/luiziana/f4.jpg</pic>
+      <pic>images/gallery_classic/luiziana/f5.jpg</pic>
+      <pic>images/gallery_classic/luiziana/f6.jpg</pic>
+      <pic>images/gallery_classic/luiziana/f7.jpg</pic>
+      <pic>images/gallery_classic/luiziana/f8.jpg</pic>
+      <pic>images/gallery_classic/luiziana/f9.jpg</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Мэрилэнд</name>
+    <pic>images/gallery_classic/marilend/big1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Мэрилэнд</name>
+    <picBigs>
+      <pic>images/gallery_classic/marilend/big1.jpg</pic>
+      <pic>images/gallery_classic/marilend/big2.jpg</pic>
+      <pic>images/gallery_classic/marilend/big3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/marilend/small_1.jpg</pic>
+      <pic>images/gallery_classic/marilend/small_2.jpg</pic>
+      <pic>images/gallery_classic/marilend/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Кухня "Мэрилэнд" - необычайно "легкая" оригинальная композиция, придется по вкусу женщинам, а высочайшее качество используемых материалов по достоинству оценят мужчины. Изготовлена из массива древесины, окрашенного в цвет черешни, филенка - шпон черешни, всё покрыто тремя слоями высококачественного мебельного лака.
+ 
+Каждая деталь здесь четко продумана и расположена на строго определенном месте. Даже самый незначительный на первый взгляд элемент несет на себе свою функциональную нагрузку. В то же время, в ней нет ничего лишнего, все сделано для комфорта потребителя, то есть для Вас.]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/marilend/f1.jpg</pic>
+      <pic>images/gallery_classic/marilend/f2.png</pic>
+      <pic>images/gallery_classic/marilend/f3.png</pic>
+      <pic>images/gallery_classic/marilend/f4.png</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Монтана</name>
+    <pic>images/gallery_classic/montana/big1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Монтана</name>
+    <picBigs>
+      <pic>images/gallery_classic/montana/big1.jpg</pic>
+      <pic>images/gallery_classic/montana/big2.jpg</pic>
+      <pic>images/gallery_classic/montana/big3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/montana/small_1.jpg</pic>
+      <pic>images/gallery_classic/montana/small_2.jpg</pic>
+      <pic>images/gallery_classic/montana/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Строгая, выполненная без излишеств модель «Монтана.  Фасад изготовлен из натуральных, экологически чистых материалов (массива и шпона дуба), что позволяет гарнитуру служить не одному поколению, оставляя неизменными внешний вид. Кухня привлекает внимание кажущейся простотой и строгой лаконичностью линий. Такая кухня идеальное сочетание уюта, функциональности каждой детали и комфорта. Современные технологии позволяют подойти к конструкции мебели очень продуманно, обеспечив максимальное удобство ее использования. Гарнитур дополняют большое количество шкафчиков, полок и витрин, делая его практичным.]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/montana/f1.jpg</pic>
+      <pic>images/gallery_classic/montana/f2.jpg</pic>
+      <pic>images/gallery_classic/montana/f3.jpg</pic>
+      <pic>images/gallery_classic/montana/f4.jpg</pic>
+      <pic>images/gallery_classic/montana/f5.jpg</pic>
+      <pic>images/gallery_classic/montana/f6.jpg</pic>
+      <pic>images/gallery_classic/montana/f7.jpg</pic>
+      <pic>images/gallery_classic/montana/f8.jpg</pic>
+      <pic>images/gallery_classic/montana/f9.jpg</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Наполи</name>
+    <pic>images/gallery_classic/napoli/big1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Наполи</name>
+    <picBigs>
+      <pic>images/gallery_classic/napoli/big1.jpg</pic>
+      <pic>images/gallery_classic/napoli/big2.jpg</pic>
+      <pic>images/gallery_classic/napoli/big3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/napoli/small_1.jpg</pic>
+      <pic>images/gallery_classic/napoli/small_2.jpg</pic>
+      <pic>images/gallery_classic/napoli/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Светлая и уютная кухня «Наполи»  - типичная  классика.  Фасад выполнен из цельного массива дерева ( массив ясеня) с применением технологии «Де Капе». Плавные линии в отделке кухонного гарнитура -  это главный атрибут этой модели. Именно мягкие детали, отсутствие прямых и острых углов и мягкое очарование натурального дерева оливкового оттенка отличают Наполи он других классических моделей.  Неоспоримое достоинство этой кухни - сочетание практичности и функциональности с красивым и стильным дизайном. Как и все гарнитуры, представленные нашей компанией, модель может быть оснащена современной и качественной бытовой техникой и фурнитурой.]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/napoli/f1.jpg</pic>
+      <pic>images/gallery_classic/napoli/f2.jpg</pic>
+      <pic>images/gallery_classic/napoli/f3.jpg</pic>
+      <pic>images/gallery_classic/napoli/f4.jpg</pic>
+      <pic>images/gallery_classic/napoli/f5.jpg</pic>
+      <pic>images/gallery_classic/napoli/f6.jpg</pic>
+      <pic>images/gallery_classic/napoli/f7.jpg</pic>
+      <pic>images/gallery_classic/napoli/f8.jpg</pic>
+      <pic>images/gallery_classic/napoli/f9.jpg</pic>
+      <pic>images/gallery_classic/napoli/f10.jpg</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Олимп</name>
+    <pic>images/gallery_classic/olimp/big1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Олимп</name>
+    <picBigs>
+      <pic>images/gallery_classic/olimp/big1.jpeg</pic>
+      <pic>images/gallery_classic/olimp/big1.jpg</pic>
+      <pic>images/gallery_classic/olimp/big2.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/olimp/small_1.jpeg</pic>
+      <pic>images/gallery_classic/olimp/small_1.jpg</pic>
+      <pic>images/gallery_classic/olimp/small_2.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Кухня «Олимп» -  представительница сдержанного и консервативного классического стиля, по праву считается олицетворением гармонии, уюта и тепла домашнего очага. Фасад выполнен из массива липы и шпона черешни, с применением технологии искусственного старения, покрыт в три слоя водоотталкивающего лака. Кухонный гарнитур сочетает в себе простоту, комфорт, практичность и надежность. Изысканный внешний вид дополняется высокой функциональностью каждой детали Прекрасное соотношение цены и качества.]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/olimp/f1.jpg</pic>
+      <pic>images/gallery_classic/olimp/f2.jpg</pic>
+      <pic>images/gallery_classic/olimp/f3.jpg</pic>
+      <pic>images/gallery_classic/olimp/f4.jpg</pic>
+      <pic>images/gallery_classic/olimp/f5.jpg</pic>
+      <pic>images/gallery_classic/olimp/f6.jpg</pic>
+      <pic>images/gallery_classic/olimp/f7.jpg</pic>
+      <pic>images/gallery_classic/olimp/f8.jpg</pic>
+      <pic>images/gallery_classic/olimp/f9.jpg</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Рафаэль</name>
+    <pic>images/gallery_classic/raphael/big1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Рафаэль</name>
+    <picBigs>
+      <pic>images/gallery_classic/raphael/big1.jpg</pic>
+      <pic>images/gallery_classic/raphael/big2.jpg</pic>
+      <pic>images/gallery_classic/raphael/big3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/raphael/small_1.jpg</pic>
+      <pic>images/gallery_classic/raphael/small_2.jpg</pic>
+      <pic>images/gallery_classic/raphael/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Классическая кухня «Рафаэль», выполнена в традиционном стиле с использованием в производстве новейших, современных технологий. Фасад выполнен из массива талари, тонированного в цвет "орех" с применением технологии искусственного старения, покрытый тремя слоями лака. Особенностью модели – ребристая поверхность на лицевой части фасада. Большой выбор декоративных элементов, встраиваемой техники, широкий размерный ряд, обилие арок, витражей и полок помогают сделать кухни красивой, практичной и функциональной.]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/raphael/f1.jpg</pic>
+      <pic>images/gallery_classic/raphael/f2.jpg</pic>
+      <pic>images/gallery_classic/raphael/f3.jpg</pic>
+      <pic>images/gallery_classic/raphael/f4.jpg</pic>
+      <pic>images/gallery_classic/raphael/f5.jpg</pic>
+      <pic>images/gallery_classic/raphael/f6.jpg</pic>
+      <pic>images/gallery_classic/raphael/f7.jpg</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Римини</name>
+    <pic>images/gallery_classic/rimini/big1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Римини</name>
+    <picBigs>
+      <pic>images/gallery_classic/rimini/big1.jpg</pic>
+      <pic>images/gallery_classic/rimini/big2.jpg</pic>
+      <pic>images/gallery_classic/rimini/big3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/rimini/small_1.jpg</pic>
+      <pic>images/gallery_classic/rimini/small_2.jpg</pic>
+      <pic>images/gallery_classic/rimini/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Уют и неповторимое изящество модели «Римини» никого не оставит равнодушным. Людей со вкусом и любовью к классическому стилю она очарует античным орнаментом на фасадах и карнизах, подчеркнутым темной патиной. Классические пилястры, декоративные накладки и витражи расставляют акценты в кухонном гарнитуре, придают ей изысканность, не подвергая при этом сомнению ее функциональность и эргономичность.]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/rimini/f1.jpg</pic>
+      <pic>images/gallery_classic/rimini/f2.jpg</pic>
+      <pic>images/gallery_classic/rimini/f3.jpg</pic>
+      <pic>images/gallery_classic/rimini/f4.jpg</pic>
+      <pic>images/gallery_classic/rimini/f5.jpg</pic>
+      <pic>images/gallery_classic/rimini/f6.jpg</pic>
+      <pic>images/gallery_classic/rimini/f7.jpg</pic>
+      <pic>images/gallery_classic/rimini/f8.jpg</pic>
+      <pic>images/gallery_classic/rimini/f9.jpg</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Руджери</name>
+    <pic>images/gallery_classic/rudjeri/big1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Руджери</name>
+    <picBigs>
+      <pic>images/gallery_classic/rudjeri/big1.jpg</pic>
+      <pic>images/gallery_classic/rudjeri/big2.jpg</pic>
+      <pic>images/gallery_classic/rudjeri/big3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/rudjeri/small_1.jpg</pic>
+      <pic>images/gallery_classic/rudjeri/small_2.jpg</pic>
+      <pic>images/gallery_classic/rudjeri/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Кухня «Руджери» представляет собой классическую мебель для кухни с оригинальным и богатым оформлением фасадов. Рамка фасада выполнена массива «Red Alder» (ольха красная), филенки - МДФ, облицованная шпоном черешни, окрашены в белый цвет, с применением ярко выраженной серебристой патиной, покрытой в три слоя лака. Гарнитур идеально сочетает в себе функциональность и эстетику. Особенность гарнитура в наличии островка в центре, он дает возможность свободно перемещаться внутри помещения. Кухне в классическом стиле Руджери свойственны спокойные, прямоугольные формы, сдержанное декоративное оформление.]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/rudjeri/f1.jpg</pic>
+      <pic>images/gallery_classic/rudjeri/f2.jpg</pic>
+      <pic>images/gallery_classic/rudjeri/f3.jpg</pic>
+      <pic>images/gallery_classic/rudjeri/f4.jpg</pic>
+      <pic>images/gallery_classic/rudjeri/f5.jpg</pic>
+      <pic>images/gallery_classic/rudjeri/f6.jpg</pic>
+      <pic>images/gallery_classic/rudjeri/f7.jpg</pic>
+      <pic>images/gallery_classic/rudjeri/f8.jpg</pic>
+      <pic>images/gallery_classic/rudjeri/f9.jpg</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Сиена</name>
+    <pic>images/gallery_classic/siena/big1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Сиена</name>
+    <picBigs>
+      <pic>images/gallery_classic/siena/big1.jpg</pic>
+      <pic>images/gallery_classic/siena/big2.jpg</pic>
+      <pic>images/gallery_classic/siena/big3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/siena/small_1.jpg</pic>
+      <pic>images/gallery_classic/siena/small_2.jpg</pic>
+      <pic>images/gallery_classic/siena/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Кухня «Сиена» - сочетание классических форм и современных технологий.  Фасад выполнен из массива акации и филенки -  МДФ, облицованный шпоном акации. Оригинальная отделка безусловно отличает и выделяет кухню Сиена из модельного ряда классических кухонь. Тонирование в голубой цвет с применением технологии искусственного старения, в три слоя лака, выгодно подчеркивает достоинства гарнитура.  Во всём чувствуется величественность и спокойствие. Приятные голубые тона радуют глаз, а закруглённость радиусных секций не оставит равнодушным настоящего ценителя этого стиля. Сиена представляет собой гармонию и чистоту простых линий и натуральных материалов.]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/siena/f1.jpg</pic>
+      <pic>images/gallery_classic/siena/f2.jpg</pic>
+      <pic>images/gallery_classic/siena/f3.jpg</pic>
+      <pic>images/gallery_classic/siena/f4.jpg</pic>
+      <pic>images/gallery_classic/siena/f5.jpg</pic>
+      <pic>images/gallery_classic/siena/f6.jpg</pic>
+      <pic>images/gallery_classic/siena/f7.jpg</pic>
+      <pic>images/gallery_classic/siena/f8.jpg</pic>
+      <pic>images/gallery_classic/siena/f9.jpg</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Страдивари</name>
+    <pic>images/gallery_classic/stradivari/big1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Страдивари</name>
+    <picBigs>
+      <pic>images/gallery_classic/stradivari/big1.jpg</pic>
+      <pic>images/gallery_classic/stradivari/big2.jpg</pic>
+      <pic>images/gallery_classic/stradivari/big3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/stradivari/small_1.jpg</pic>
+      <pic>images/gallery_classic/stradivari/small_2.jpg</pic>
+      <pic>images/gallery_classic/stradivari/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Модель «Страдивари» -  классическая кухня из натурального дерева липы, создана подчеркивать очарование старины, семейные традиции и роскошь. Фасады кухни изготовлены из массива липы, филенка из МДФ со шпоном черешни, тонированная по технологии патинирования. Отличает модель - декоративная косичка с позолотой, покрытая в три слоя лака и специально созданная для этого гарнитура полка под вина. Ей присущи оригинальные детали карнизов, капителей, декоративных заглушек, столбиков выточенных из массива липы. Каждым своим метром она призвана напоминать о прекрасной классике, которая порождает в нас тепло и любовь.]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/stradivari/f1.jpg</pic>
+      <pic>images/gallery_classic/stradivari/f2.jpg</pic>
+      <pic>images/gallery_classic/stradivari/f3.jpg</pic>
+      <pic>images/gallery_classic/stradivari/f4.jpg</pic>
+      <pic>images/gallery_classic/stradivari/f5.jpg</pic>
+      <pic>images/gallery_classic/stradivari/f6.jpg</pic>
+      <pic>images/gallery_classic/stradivari/f7.jpg</pic>
+      <pic>images/gallery_classic/stradivari/f8.jpg</pic>
+      <pic>images/gallery_classic/stradivari/f9.jpg</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Тициан</name>
+    <pic>images/gallery_classic/tician/big1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Тициан</name>
+    <picBigs>
+      <pic>images/gallery_classic/tician/big1.jpg</pic>
+      <pic>images/gallery_classic/tician/big2.jpg</pic>
+      <pic>images/gallery_classic/tician/big3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/tician/small_1.jpg</pic>
+      <pic>images/gallery_classic/tician/small_2.jpg</pic>
+      <pic>images/gallery_classic/tician/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Кухня «Тициан» - прекрасный вариант кухни из натурального дерева. Фасад изготовлен из массива ясеня, покрытый тремя слоями лака, обработан по технологии «Де Капе». Ясень обладает  отличными механическими свойствами: крепостью и упругостью - по прочности превосходит даже дуб. По длительной стойкости к деформациям ясень не имеет себе равных среди отечественных пород. Использование разнообразных форм фасадов, аксессуаров и фурнитуры придает этой кухни неповторимый шарм, благородство и по-настоящему ощущение аристократизма. Использование фурнитуры и австрийской фирмы «Blum» - мирового лидера в данной отрасли, гарантирует высокое качество оборудования. Кухни из ясеня — это всегда сдержанно и элегантно, но при этом тепло и уютно.]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/tician/f1.jpg</pic>
+      <pic>images/gallery_classic/tician/f2.jpg</pic>
+      <pic>images/gallery_classic/tician/f3.jpg</pic>
+      <pic>images/gallery_classic/tician/f4.jpg</pic>
+      <pic>images/gallery_classic/tician/f5.jpg</pic>
+      <pic>images/gallery_classic/tician/f6.jpg</pic>
+      <pic>images/gallery_classic/tician/f7.jpg</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Тревизо</name>
+    <pic>images/gallery_classic/trevizo/big1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Тревизо</name>
+    <picBigs>
+      <pic>images/gallery_classic/trevizo/big1.jpg</pic>
+      <pic>images/gallery_classic/trevizo/big2.jpg</pic>
+      <pic>images/gallery_classic/trevizo/big3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/trevizo/small_1.jpg</pic>
+      <pic>images/gallery_classic/trevizo/small_2.jpg</pic>
+      <pic>images/gallery_classic/trevizo/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[«Тревизо» — кухня для сторонников строгого стиля, умиротворяющего и создающего ощущение стабильности. Глядя на эту мебель, Вы будете чувствовать, что время не властно над Вашим домом. Неподвластная времени элегантность кухни "Тревизо" удовлетворит самый утонченный вкус. Чистота форм и филигранная работа итальянских мастеров, воплощенная в модели, создают благородный классический интерьер.]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/trevizo/f1.jpg</pic>
+      <pic>images/gallery_classic/trevizo/f2.jpg</pic>
+      <pic>images/gallery_classic/trevizo/f3.jpg</pic>
+      <pic>images/gallery_classic/trevizo/f4.jpg</pic>
+      <pic>images/gallery_classic/trevizo/f5.jpg</pic>
+      <pic>images/gallery_classic/trevizo/f6.jpg</pic>
+      <pic>images/gallery_classic/trevizo/f7.jpg</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Вазари</name>
+    <pic>images/gallery_classic/vasari/big1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Вазари</name>
+    <picBigs>
+      <pic>images/gallery_classic/vasari/big1.jpg</pic>
+      <pic>images/gallery_classic/vasari/big2.jpg</pic>
+      <pic>images/gallery_classic/vasari/big3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/vasari/small_1.jpg</pic>
+      <pic>images/gallery_classic/vasari/small_2.jpg</pic>
+      <pic>images/gallery_classic/vasari/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Кухня Вазари с лёгкостью впишется в любой интерьер и сделает его неповторимым. Это классика, которая не выйдет из моды.]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/vasari/f1.jpg</pic>
+      <pic>images/gallery_classic/vasari/f2.jpg</pic>
+      <pic>images/gallery_classic/vasari/f3.jpg</pic>
+      <pic>images/gallery_classic/vasari/f4.jpg</pic>
+      <pic>images/gallery_classic/vasari/f5.jpg</pic>
+      <pic>images/gallery_classic/vasari/f6.jpg</pic>
+      <pic>images/gallery_classic/vasari/f7.jpg</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+<itemContent>
+  <smallInfo>
+    <name>Венеция</name>
+    <pic>images/gallery_classic/venezia/big1.jpg</pic>
+  </smallInfo>
+  <fullInfo>
+    <name>Кухня Венеция</name>
+    <picBigs>
+      <pic>images/gallery_classic/venezia/big1.jpg</pic>
+      <pic>images/gallery_classic/venezia/big2.jpg</pic>
+      <pic>images/gallery_classic/venezia/big3.jpg</pic>
+    </picBigs>
+    <smallPics>
+      <pic>images/gallery_classic/venezia/small_1.jpg</pic>
+      <pic>images/gallery_classic/venezia/small_2.jpg</pic>
+      <pic>images/gallery_classic/venezia/small_3.jpg</pic>
+    </smallPics>
+    <info><![CDATA[Классическая итальянская кухня «Венеция» – это идеальное сочетание уюта, функциональности и комфорта. Отличительная черта - благородство и высокое качество фасадов, что позволяет гарнитуру быть долговечным и надежным. Фасады изготовлены из массива липы и шпона черешни, искусственно состарены с помощью трехслойного лакового покрытия. Особую роль в формировании стиля отведено современной вытяжке, прекрасно гармонирующей с общим интерьером помещения. В конструкции и в дизайне модели все продумано до мелочей, здесь каждая деталь расположена на строго определенном месте.]]></info>
+    <colorPics>
+      <pic>images/gallery_classic/venezia/f1.jpg</pic>
+      <pic>images/gallery_classic/venezia/f2.jpg</pic>
+      <pic>images/gallery_classic/venezia/f3.jpg</pic>
+      <pic>images/gallery_classic/venezia/f4.jpg</pic>
+      <pic>images/gallery_classic/venezia/f5.jpg</pic>
+      <pic>images/gallery_classic/venezia/f6.jpg</pic>
+      <pic>images/gallery_classic/venezia/f7.jpg</pic>
+      <pic>images/gallery_classic/venezia/f8.jpg</pic>
+      <pic>images/gallery_classic/venezia/f9.jpg</pic>
+      <pic>images/gallery_classic/venezia/f10.jpg</pic>
+      <pic>images/gallery_classic/venezia/f11.jpg</pic>
+    </colorPics>
+  </fullInfo>
+</itemContent>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

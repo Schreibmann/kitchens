@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<naviagtion
+	deeplinking = "on"
+	starting = "fullscreen_gallery.swf" 
+	audio = "off" 
+	navColor = "0x000000"
+	subnavColor = "0xcc3366"
+	urlTarget = "_blank" 
+	callOutColor = "0x111111"
+	pageTitle = "Кухни от Мапачетти" 
+	slogan = "Плати только за то за что должен платить"
+	logo="images/misc/logo.png"
+	footer="© ООО  Мапачетти">
+
+<menu label="Главная" goto="load" link="fullscreen_gallery.swf" audio="on" swfAddress = "Home"></menu>
+
+<menu label="О нас">
+	<menu label="О фирме" goto="load" link="text_module1.swf" audio="on" swfAddress = "Company"/>
+</menu>
+
+<menu label="Каталог">
+	<menu label="Классика" goto="load" link="gallery_classic_new.swf" audio="on" swfAddress = "gallery_classic"/>
+</menu>
+
+<menu label="Фурнитура">
+
+</menu>
+
+<menu label="Ссылки">
+
+</menu>
+
+<menu label="Новости"></menu>
+
+<menu label="Контакты" goto="load" link="contact_new.swf" audio="on" swfAddress = "Contact"></menu>
+
+<menu label="Отзывы"></menu>
+
+</naviagtion>

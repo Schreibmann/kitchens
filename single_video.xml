@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<videoData>
+
+<video       
+       buffTime = "2"
+       scrubColor = "0x006699"  
+	   videoWidth = "700"
+	   videoHeight = "400"
+       smoothVideo = "true"
+	   freezeFrame = "2"
+	   fullscreen="on"
+	   shareURL="videohive.net/item/elegant-extrusion/142766"
+	   >http://s3.envato.com/files/1355305/elegantextrusion_video_preview.flv</video>
+	   
+<description><![CDATA[<font color ="#ffffff">Elegant Extrusion by MotionRevolver. </font><a href="http://sebastian-galazka.org.uk/blog/" target="_blank"><font color="#006699">Read More</font>]]></description>
+
+</videoData>

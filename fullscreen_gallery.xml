@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<slideshowData 
+	speed="9"
+	buttons="on"
+	description="on"
+	overlay="off">
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/reklama_1.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/reklama_th_1.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Кухня уже не кухня</font>]]></thumbCaption>
+<description><![CDATA[<font size ="50" color ="#ffffff">Кухня уже не просто кухня</font><br><font size ="30" color ="#999999">Кухня стала местом где может собраться вся семья</font>]]></description>
+</slide>
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/reklama_2.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/reklama_th_2.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Стиль всегда с вами</font>]]></thumbCaption>
+<description><![CDATA[<font size ="50" color ="#ffffff">Стильная кухня</font><br><font size ="30" color ="#666666">Кухня это выражение вас</font>]]></description>
+</slide>
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/reklama_4.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/reklama_th_4.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Радуга у вас дома</font><br><font color = "#ffffff" size ="8">Элегантность во всём</font>]]></thumbCaption>
+<description><![CDATA[<font size ="40" color ="#ffffff">Многогранность цвета</font><br><font size ="30" color ="#cccccc">Даже самая смелая ваша фантазия, может превратиться  в  вашу кухню</font>]]></description>
+</slide>
+
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/reklama_3.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/reklama_th_3.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Классика</font>]]></thumbCaption>
+<description><![CDATA[<font size ="50" color ="#ffffff">Классика</font><br><font size ="30" color ="#cccccc">Даже если вы привыкли к классике не беспокойтесь, даже если ваша кухня у вас будет навивать настольгию, мы гарантируем что при работе с ней вы окунётесь в будущее</font>]]></description>
+</slide>
+
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/reklama_5.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/reklama_th_5.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Мелочи</font><br><font color = "#ffffff" size ="8">HTML Formatted Description</font>]]></thumbCaption>
+<description><![CDATA[<font size ="50" color ="#ffffff">Красота в мелочах</font><br><font size ="30" color ="#999999">Если что то незаметно, но всё равно красиво... значит всё на своих местах</font>]]></description>
+</slide>
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/reklama_6.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/reklama_th_6.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Гигиена</font>]]></thumbCaption>
+<description><![CDATA[<font size ="50" color ="#ffffff">Современная фурнитура</font><br><font size ="30" color ="#666666">Ни один уголок кухни, не останеться без внемания. Не теряйте свободное пространство, мы сделаем так что бы готовить на вашей кухне было как можно удобнее </font>]]></description>
+</slide>
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/reklama_7.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/reklama_th_7.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Комфорт</font>]]></thumbCaption>
+<description><![CDATA[<font size ="50" color ="#ffffff">Комфорт должен быть во всём</font><br><font size ="30" color ="#999999">Каждой вещи своё место, и все всегда в порядке </font><font size ="30" color ="#cccccc">Get Noticed</font>]]></description>
+</slide>
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/reklama_8.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/reklama_th_8.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Рабочие поверхности</font>]]></thumbCaption>
+<description><![CDATA[<font size ="50" color ="#ffffff">Залог здоровья</font><br><font size ="30" color ="#999999">Современные рабочие поверхности несут в себе не только удобство внешний вид и комфорт,  но и современные гигеенически стандарты, Будьте  здоровы!</font>]]></description>
+</slide>
+
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/reklama_9.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/reklama_th_9.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Итог</font>]]></thumbCaption>
+<description><![CDATA[<font size ="50" color ="#ffffff">Кухня как часть интерьера</font><br><font size ="30" color ="#999999">Расскажите нам о ваших мыслях и мы сделем всё что бы они стали материальны</font>]]></description>
+</slide>
+
+
+
+
+</slideshowData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<departments
+
+	btnhoverColor = "0x006699" 
+	btnresetColor = "0x444444"
+	txthoverColor = "0xffffff" 
+	txtresetColor = "0xffffff"
+	listboxColor = "0x003853"
+	txtlistboxColor = "0xffffff"
+	listHeader = "Как вы о нас узнали"
+	messageSent = "Спасибо!"
+	errorMessage = "Произошла ошибка, попробуйте ещё раз">
+
+	<dept email="2291067@gmail.com">Случайно</dept>
+	<dept email="2291067@gmail.com">Листовки</dept>
+	<dept email="2291067@gmail.com">Телевидение</dept>
+	<dept email="2291067@gmail.com">Друзья</dept>
+	<dept email="2291067@gmail.com">Фабрика</dept>
+	<dept email="2291067@gmail.com">СМС</dept>
+	
+</departments>

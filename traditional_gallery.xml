@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<slideshowData 
+	speed="20"
+	border="10"
+	scrubColor="0x006699" 
+	buttons="on"
+	description="on"
+	overlay="off">
+
+<slide>
+<imagePath>images/traditional_gallery/large/image1.jpg</imagePath>
+<thumbPath>images/traditional_gallery/thumbs/thumb1.jpg</thumbPath>
+<imageWidth>701</imageWidth>
+<imageHeight>450</imageHeight>
+<zoom>off</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Кухня Азия</font><br><font color = "#ffffff" size ="8">Шпонированные фасады</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="16">Кухня Азия</font><br><font color = "#ffffff" size ="12">Изысканная строгость линий, естественность цветов. Здесь все дышит гармонией и покоем... Здесь любое действие превращается в загадочный ритуал. Фасады изготовлены из МДФ, облицованы шпоном ценных пород древа - зебрано, эбенового дерева, венге, отбеленного дуба, вишни, ореха, покрыты глянцевым лаком. В комбинации со шпоном могут быть использованы фасады, облицованые эмалью со вставками из узорчатого стекла</font> <a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="12"> Узнать больше </font><br>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery/large/image2.jpg</imagePath>
+<thumbPath>images/traditional_gallery/thumbs/thumb2.jpg</thumbPath>
+<imageWidth>508</imageWidth>
+<imageHeight>450</imageHeight>
+<zoom>on</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Кухня Азия</font><br><font color = "#ffffff" size ="8">Шпонированные фасады</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="16">Кухня Азия</font><br><font color = "#ffffff" size ="12">Изысканная строгость линий, естественность цветов. Здесь все дышит гармонией и покоем... Здесь любое действие превращается в загадочный ритуал. Фасады изготовлены из МДФ, облицованы шпоном ценных пород древа - зебрано, эбенового дерева, венге, отбеленного дуба, вишни, ореха, покрыты глянцевым лаком. В комбинации со шпоном могут быть использованы фасады, облицованые эмалью со вставками из узорчатого стекла</font> <a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="12"> Узнать больше </font><br>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery/large/image3.jpg</imagePath>
+<thumbPath>images/traditional_gallery/thumbs/thumb3.jpg</thumbPath>
+<imageWidth>675</imageWidth>
+<imageHeight>450</imageHeight>
+<zoom>off</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Кухня Бостон</font><br><font color = "#ffffff" size ="8">Фасады МДФ шпон и эмаль</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="14">Кухня Бостон</font><br><font color = "#ffffff" size ="10">Исключительная по строгости линий и практичности, представлена в оригинальной комбинациии материалов: глянцевая эмаль, натуральный шпон (цвет венге, эбен, зебрано и др. на выбор),  пластик и сталь. Разнообразие композиционных решений удовлетворит все требования современного покупателя к стилю и функциональности.Фасады изготовлены из МДФ, имеют комбинированное покрытие лицевой поверхности  шпоном экзотических пород дерева - венге, эбеновое и др. дерево и эмалью (со всех сторон). При изготовлении используются уникальные технологии.</font><br><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="12">Заказать расчёт</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery/large/image4.jpg</imagePath>
+<thumbPath>images/traditional_gallery/thumbs/thumb4.jpg</thumbPath>
+<imageWidth>720</imageWidth>
+<imageHeight>400</imageHeight>
+<zoom>off</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">CHRISTIE SWINSON</font><br><font color = "#ffffff" size ="8">Collection by David Hudson</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">CHRISTIE SWINSON - Collection by David Hudson</font><br><font color = "#ffffff" size ="8">Set a description for each image in the xml. This text field is html formatted text. </font><br><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery/large/image5.jpg</imagePath>
+<thumbPath>images/traditional_gallery/thumbs/thumb5.jpg</thumbPath>
+<imageWidth>333</imageWidth>
+<imageHeight>500</imageHeight>
+<zoom>off</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">NICOLE VERETTI</font><br><font color = "#ffffff" size ="8">Collection by Sam Jacobson</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">NICOLE VERETTI - Collection by Sam Jacobson</font><br><font color = "#ffffff" size ="8">Set a description for each image in the xml. This text field is html formatted text. </font><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery/large/image6.jpg</imagePath>
+<thumbPath>images/traditional_gallery/thumbs/thumb6.jpg</thumbPath>
+<imageWidth>535</imageWidth>
+<imageHeight>500</imageHeight>
+<zoom>on</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">LINDA FIORENTI</font><br><font color = "#ffffff" size ="8">Collection by Victor Beninni</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">LINDA FIORENTI - Collection by Victor Beninni</font><br><font color = "#ffffff" size ="8">Set a description for each image in the xml. This text field is html formatted text. Which means you can format the text any way you want using many html tags. Such as font size and color, also add links.</font><br><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery/large/image7.jpg</imagePath>
+<thumbPath>images/traditional_gallery/thumbs/thumb7.jpg</thumbPath>
+<imageWidth>543</imageWidth>
+<imageHeight>450</imageHeight>
+<zoom>on</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Танака</font><br><font color = "#ffffff" size ="8">Фрезированное МДФ</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="14">Танака</font><br><font color = "#ffffff" size ="10">Модель удачно сочетает в себе комбинирование различных материалов. Возможность комбинирования цвета и материала открывает огромные возможности для выражения своих предпочтений.Фасады изготовлены из МДФ, имеют комбинированное покрытие лицевой плоскости  шпоном экзотических пород дерева - венге, эбеновое дерево и эмалью (со всех сторон). При изготовлении используются уникальные технологии.  </font><br><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="12">Заказать расчёт</font>]]></description>
+<fullscreen>off</fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery/large/image8.jpg</imagePath>
+<thumbPath>images/traditional_gallery/thumbs/thumb8.jpg</thumbPath>
+<imageWidth>675</imageWidth>
+<imageHeight>450</imageHeight>
+<zoom>on</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Кухня Джаз</font><br><font color = "#ffffff" size ="8">Фасад МДФ с Эмалью</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="16">Джаз</font><br><font color = "#ffffff" size ="12">Современная, оригинальная модель, воплощающая в себе стремительный дизайн и безупречные формы. Отличительной особенностью этой кухни является сложная конфигурация фасадов. JAZZ - это совершенство стиля, воплощенное в плавных изгибах линий и зеркальном блеске высокоглянцевого фасада.</font><br><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="12">Заказать расчёт</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery/large/image9.jpg</imagePath>
+<thumbPath>images/traditional_gallery/thumbs/thumb9.jpg</thumbPath>
+<imageWidth>300</imageWidth>
+<imageHeight>450</imageHeight>
+<zoom>on</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Кухня Бостон</font><br><font color = "#ffffff" size ="8">Фасады МДФ шпон и эмаль</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="14">Кухня Бостон</font><br><font color = "#ffffff" size ="10">Исключительная по строгости линий и практичности, представлена в оригинальной комбинациии материалов: глянцевая эмаль, натуральный шпон (цвет венге, эбен, зебрано и др. на выбор),  пластик и сталь. Разнообразие композиционных решений удовлетворит все требования современного покупателя к стилю и функциональности.Фасады изготовлены из МДФ, имеют комбинированное покрытие лицевой поверхности  шпоном экзотических пород дерева - венге, эбеновое и др. дерево и эмалью (со всех сторон). При изготовлении используются уникальные технологии.</font><br><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="12">Заказать расчёт</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery/large/image10.jpg</imagePath>
+<thumbPath>images/traditional_gallery/thumbs/thumb10.jpg</thumbPath>
+<imageWidth>900</imageWidth>
+<imageHeight>400</imageHeight>
+<zoom>off</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">KATIE SMITH</font><br><font color = "#ffffff" size ="8">Collection by John Kilpatrick</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">KATIE SMITH - Collection by John Kilpatrick</font><br><font color = "#ffffff" size ="8">Set a description for each image in the xml. This text field is html formatted text.</font><br><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery/large/image11.jpg</imagePath>
+<thumbPath>images/traditional_gallery/thumbs/thumb11.jpg</thumbPath>
+<imageWidth>750</imageWidth>
+<imageHeight>500</imageHeight>
+<zoom>on</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">TARA STEVENSON</font><br><font color = "#ffffff" size ="8">Collection by Jade Spencer</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">TARA STEVENSON - Collection by Jade Spencer</font><br><font color = "#ffffff" size ="8">Set a description for each image in the xml. This text field is html formatted text.</font><br><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery/large/image13.jpg</imagePath>
+<thumbPath>images/traditional_gallery/thumbs/thumb13.jpg</thumbPath>
+<imageWidth>690</imageWidth>
+<imageHeight>450</imageHeight>
+<zoom>off</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">GINA DAVID</font><br><font color = "#ffffff" size ="8">Collection by Wes Eliot</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">GINA DAVID - Collection by Wes Eliot</font><br><font color = "#ffffff" size ="8">Set a description for each image in the xml. This text field is html formatted text.</font><br><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery/large/image14.jpg</imagePath>
+<thumbPath>images/traditional_gallery/thumbs/thumb14.jpg</thumbPath>
+<imageWidth>551</imageWidth>
+<imageHeight>425</imageHeight>
+<zoom>off</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">Кухня Джаз</font><br><font color = "#ffffff" size ="8">Фасад МДФ с Эмалью</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="14">Джаз</font><br><font color = "#ffffff" size ="12">Современная, оригинальная модель, воплощающая в себе стремительный дизайн и безупречные формы. Отличительной особенностью этой кухни является сложная конфигурация фасадов. JAZZ - это совершенство стиля, воплощенное в плавных изгибах линий и зеркальном блеске высокоглянцевого фасада.</font><br><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="12">Заказать расчёт</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery/large/image15.jpg</imagePath>
+<thumbPath>images/traditional_gallery/thumbs/thumb15.jpg</thumbPath>
+<imageWidth>750</imageWidth>
+<imageHeight>500</imageHeight>
+<zoom>on</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">LINDA VELASQUEZ</font><br><font color = "#ffffff" size ="8">Collection by Peter Housen</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">LINDA VELASQUEZ - Collection by Peter Housen</font><br><font color = "#ffffff" size ="8">Set a description for each image in the xml. This text field is html formatted text. Which means you can format the text any way you want using many html tags.</font><br><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+<slide>
+<imagePath>images/traditional_gallery/large/image16.jpg</imagePath>
+<thumbPath>images/traditional_gallery/thumbs/thumb16.jpg</thumbPath>
+<imageWidth>750</imageWidth>
+<imageHeight>500</imageHeight>
+<zoom>on</zoom>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">STACY MORA</font><br><font color = "#ffffff" size ="8">Collection by Vera Wong</font>]]></thumbCaption>
+<description><![CDATA[<font color = "#ffffff" size ="8">STACY MORA - Collection by Vera Wong</font><br><font color = "#ffffff" size ="8">Set a description for each image in the xml. This text field is html formatted text.</font><br><a href="http://sebastian-galazka.org.uk/blog/" target = "_blank"><font color="#006699" size="8">{launch site}</font>]]></description>
+<fullscreen></fullscreen>
+</slide>
+
+</slideshowData>

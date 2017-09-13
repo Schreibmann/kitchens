@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<itemContent>
+		<smallInfo>
+			<name>HARD</name>
+			<pic>images/gallery_modern/type/hard.jpg</pic>
+		</smallInfo>
+		<fullInfo>
+			<name>Кухня HARD</name>
+			<picBigs>			
+				<pic>images/gallery_modern/allOtherImages/hard/bigPics/1.jpg</pic>
+				<pic>images/gallery_modern/allOtherImages/hard/bigPics/2.jpg</pic>
+				<pic>images/gallery_modern/allOtherImages/hard/bigPics/3.jpg</pic>
+			</picBigs>
+			<smallPics>
+				<pic>images/gallery_modern/allOtherImages/hard/smallPics/1.jpg</pic>
+				<pic>images/gallery_modern/allOtherImages/hard/smallPics/2.jpg</pic>
+				<pic>images/gallery_modern/allOtherImages/hard/smallPics/3.jpg</pic>
+			</smallPics>
+			<info><![CDATA[<p><b>Леонардо</b> – одна из самых удачных моделей, представленной на нашем рынке итальянской фабрикой . Достаточно одного взгляда на кухню Леонардо, чтобы безошибочно определить, что дизайнеры черпали вдохновение у стиля ренессанс. В то же время, данную модель нельзя назвать традиционной представительницей стиля, скорее, это его современная переработка. Сохраняя строгие формы, кухня Леонардо лишена чрезмерной массивности, присущей моделям классического стиля. Такая мебель будет вполне уместна на любой кухне.</p><p>Фасады цвета слоновой кости, отделанные золотой патиной, изготовлены с применением массива. При составлении дизайн-проекта мы всегда рекомендуем декорировать кухню Леонардо роскошными колоннами, витражами и порталом для вытяжки. Эти элементы идеально гармонируют со строгими прямыми линиями фасадов, придавая кухне еще более утонченный и изысканный вид.</p><p><br /><font color="#FFCC00">Цена от 39000 руб. за погонный метр</font>.</p><p><br />Варианты фасадов:</p>]]></info>
+			<colorPics>
+				<pic>images/gallery_classic/leonardo/f1.jpg</pic>
+				<pic>images/gallery_modern/allOtherImages/hard/colorPics/2.jpg</pic>
+				<pic>images/gallery_modern/allOtherImages/hard/colorPics/3.jpg</pic>
+				<pic>images/gallery_modern/allOtherImages/hard/colorPics/1.jpg</pic>
+				<pic>images/gallery_modern/allOtherImages/hard/colorPics/2.jpg</pic>
+				<pic>images/gallery_modern/allOtherImages/hard/colorPics/3.jpg</pic>
+			</colorPics>
+		</fullInfo>
+	</itemContent>
+	<itemContent>
+		<smallInfo>
+			<name>FORM</name>
+			<pic>images/gallery_modern/type/hard.jpg</pic>
+		</smallInfo>
+		<fullInfo>
+			<name>Кухня FORM</name>
+			<picBigs>			
+				<pic>images/gallery_modern/allOtherImages/hard/bigPics/2.jpg</pic>
+				<pic>images/gallery_modern/allOtherImages/hard/bigPics/1.jpg</pic>
+			</picBigs>
+			<smallPics>
+				<pic>images/gallery_modern/allOtherImages/hard/smallPics/2.jpg</pic>
+				<pic>images/gallery_modern/allOtherImages/hard/smallPics/1.jpg</pic>
+			</smallPics>
+			<info><![CDATA[<p>Кухня Бостон, исключительная по строгости линий и практичности, представлена в оригинальной комбинациии материалов: глянцевая эмаль, натуральный шпон (цвет венге, эбен, зебрано и др. на выбор),  пластик и сталь. Разнообразие композиционных решений удовлетворит все требования современного покупателя к стилю и функциональности.
+  Фасады изготовлены из МДФ, имеют комбинированное покрытие лицевой поверхности  шпоном экзотических пород дерева - венге, эбеновое и др. дерево и эмалью (со всех сторон). При изготовлении используются уникальные технологии.</p><p><br /><font color="#FFCC00">Цена от 39000 руб. за погонный метр</font>.</p>]]></info>
+			<colorPics>				
+			</colorPics>
+		</fullInfo>
+	</itemContent>
+	<itemContent>
+		<smallInfo>
+			<name>WOOD</name>
+			<pic>images/gallery_modern/type/hard.jpg</pic>
+		</smallInfo>
+		<fullInfo>
+			<name>Кухня FORM</name>
+			<picBigs>			
+				<pic>images/gallery_modern/allOtherImages/hard/bigPics/2.jpg</pic>
+				<pic>images/gallery_modern/allOtherImages/hard/bigPics/1.jpg</pic>
+			</picBigs>
+			<smallPics>
+				<pic>images/gallery_modern/allOtherImages/hard/smallPics/2.jpg</pic>
+				<pic>images/gallery_modern/allOtherImages/hard/smallPics/1.jpg</pic>
+			</smallPics>
+			<info><![CDATA[<p>Кухня Бостон, исключительная по строгости линий и практичности, представлена в оригинальной комбинациии материалов: глянцевая эмаль, натуральный шпон (цвет венге, эбен, зебрано и др. на выбор),  пластик и сталь. Разнообразие композиционных решений удовлетворит все требования современного покупателя к стилю и функциональности.
+  Фасады изготовлены из МДФ, имеют комбинированное покрытие лицевой поверхности  шпоном экзотических пород дерева - венге, эбеновое и др. дерево и эмалью (со всех сторон). При изготовлении используются уникальные технологии.</p><p><br /><font color="#FFCC00">Цена от 39000 руб. за погонный метр</font>.</p>]]></info>
+			<colorPics>				
+			</colorPics>
+		</fullInfo>
+	</itemContent>
+</data>

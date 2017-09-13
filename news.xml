@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<data
+buttonColor="0x000000"
+buttonOverColor="0x111111"
+readbuttonColor="0x999999"
+readbuttonOverColor="0xffffff"
+controlBarColor="0xffffff"
+controlBarOverColor="0xcc3366"
+scrollColor="0x006699"
+trackColor="0x111111"
+txtColor="0x999999"
+txtOverColor="0xffffff"
+counterText1="Displaying"
+counterText2="News"
+newsWidth="600"
+newsHeight="125"
+thumbWidth="105"
+thumbHeight="105"
+textLength="400">	
+	
+<item>
+<media>flv</media>
+<image>images/news/image6.jpg</image>
+<youtube></youtube>
+<flv>http://s3.envato.com/files/1311982/Lights of Envato.flv</flv>
+<videoWidth>500</videoWidth>
+<videoHeight>250</videoHeight>
+<shareURL>videohive.net/item/lights-of-envato/138814</shareURL>
+<description><![CDATA[April 21st, 2010<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce accumsan consectetur sem, at pellentesque augue blandit quis. Nullam mattis laoreet sapien, sed condimentum purus lobortis pharetra. Donec cursus massa sed felis tristique convallis in convallis turpis. Suspendisse id sem quam. Vivamus suscipit ullamcorper suscipit. Fusce ipsum mauris, faucibus a consectetur sed, elementum suscipit velit. Integer lacinia lorem non lectus pellentesque vehicula. Nulla facilisi. Aliquam augue nunc, rutrum quis blandit in, sollicitudin nec nisl. Donec et orci sed tellus ullamcorper tristique et vel libero.
+Sed magna erat, consectetur nec porttitor quis, interdum a velit. Vestibulum vitae sem eu magna tincidunt placerat. Quisque id nisi nulla. Sed ipsum arcu, facilisis et sagittis vitae, sollicitudin et neque. Sed congue molestie scelerisque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque pretium fermentum neque, et viverra turpis suscipit commodo. Morbi augue tortor.]]></description>
+</item>
+
+<item>
+<media>image</media>
+<image>images/news/image4.jpg</image>
+<youtube></youtube>
+<flv></flv>
+<videoWidth></videoWidth>
+<videoHeight></videoHeight>
+<shareURL></shareURL>
+<description><![CDATA[December 15th, 2010<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce accumsan consectetur sem, at pellentesque augue blandit quis. Nullam mattis laoreet sapien, sed condimentum purus lobortis pharetra. Donec cursus massa sed felis tristique convallis in convallis turpis. Suspendisse id sem quam. Vivamus suscipit ullamcorper suscipit. Fusce ipsum mauris, faucibus a consectetur sed, elementum suscipit velit. Integer lacinia lorem non lectus pellentesque vehicula. Nulla facilisi. Aliquam augue nunc, rutrum quis blandit in, sollicitudin nec nisl. Donec et orci sed tellus ullamcorper tristique et vel libero.
+Sed magna erat, consectetur nec porttitor quis, interdum a velit. Vestibulum vitae sem eu magna tincidunt placerat. Quisque id nisi nulla. Sed ipsum arcu, facilisis et sagittis vitae, sollicitudin et neque. Sed congue molestie scelerisque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque pretium fermentum neque, et viverra turpis suscipit commodo. Morbi augue tortor, varius quis fermentum in, pharetra a odio. Nullam a sapien et ipsum viverra vehicula id ac risus. Pellentesque venenatis tristique tempus. Praesent et orci lacus. Cras iaculis arcu at orci convallis ornare malesuada augue pulvinar. Vestibulum venenatis tempor ante et lacinia. Suspendisse malesuada dapibus malesuada. Etiam blandit dui at neque ornare vulputate. Pellentesque a lorem quis nisi tempus venenatis. Ut eleifend mi eu dolor dapibus ornare a sit amet orci. Proin fermentum laoreet mauris, ut luctus est lacinia non. Integer et erat lectus.
+Sed magna erat, consectetur nec porttitor quis, interdum a velit. Vestibulum vitae sem eu magna tincidunt placerat. Quisque id nisi nulla. Sed ipsum arcu, facilisis et sagittis vitae, sollicitudin et neque. Sed congue molestie scelerisque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque pretium fermentum neque, et viverra turpis suscipit commodo. Morbi augue tortor, varius quis fermentum in, pharetra a odio. Nullam a sapien et ipsum viverra vehicula id ac risus. Pellentesque venenatis tristique tempus. Praesent et orci lacus. Cras iaculis arcu at orci convallis ornare malesuada augue pulvinar. Vestibulum venenatis tempor ante et lacinia. Suspendisse malesuada dapibus malesuada. Etiam blandit dui at neque ornare vulputate. Pellentesque a lorem quis nisi tempus venenatis. Ut eleifend mi eu dolor dapibus ornare a sit amet orci. Proin fermentum laoreet mauris, ut luctus est lacinia non. Integer et erat lectus.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce accumsan consectetur sem, at pellentesque augue blandit quis. Nullam mattis laoreet sapien, sed condimentum purus lobortis pharetra. Donec cursus massa sed felis tristique convallis in convallis turpis. Suspendisse id sem quam. Vivamus suscipit ullamcorper suscipit. Fusce ipsum mauris, faucibus a consectetur sed, elementum suscipit velit. Integer lacinia lorem non lectus pellentesque vehicula. Nulla facilisi. Aliquam augue nunc, rutrum quis blandit in, sollicitudin nec nisl. Donec et orci sed tellus ullamcorper tristique et vel libero.
+Sed magna erat, consectetur nec porttitor quis, interdum a velit. Vestibulum vitae sem eu magna tincidunt placerat. Quisque id nisi nulla. Sed ipsum arcu, facilisis et sagittis vitae, sollicitudin et neque. Sed congue molestie scelerisque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque pretium fermentum neque, et viverra turpis suscipit commodo. Morbi augue tortor, varius quis fermentum in, pharetra a odio. Nullam a sapien et ipsum viverra vehicula id ac risus. Pellentesque venenatis tristique tempus. Praesent et orci lacus. Cras iaculis arcu at orci convallis ornare malesuada augue pulvinar. Vestibulum venenatis tempor ante et lacinia. Suspendisse malesuada dapibus malesuada. Etiam blandit dui at neque ornare vulputate. Pellentesque a lorem quis nisi tempus venenatis. Ut eleifend mi eu dolor dapibus ornare a sit amet orci. Proin fermentum laoreet mauris, ut luctus est lacinia non. Integer et erat lectus.
+Sed magna erat, consectetur nec porttitor quis, interdum a velit. Vestibulum vitae sem eu magna tincidunt placerat. Quisque id nisi nulla. Sed ipsum arcu, facilisis et sagittis vitae, sollicitudin et neque. Sed congue molestie scelerisque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque pretium fermentum neque, et viverra turpis suscipit commodo. Morbi augue tortor, varius quis fermentum in, pharetra a odio. Nullam a sapien et ipsum viverra vehicula id ac risus. Pellentesque venenatis tristique tempus. Praesent et orci lacus. Cras iaculis arcu at orci convallis ornare malesuada augue pulvinar. Vestibulum venenatis tempor ante et lacinia. Suspendisse malesuada dapibus malesuada. Etiam blandit dui at neque ornare vulputate. Pellentesque a lorem quis nisi tempus venenatis. Ut eleifend mi eu dolor dapibus ornare a sit amet orci. Proin fermentum laoreet mauris, ut luctus est lacinia non. Integer et erat lectus.]]></description>
+</item>
+
+<item>
+<media>youtube</media>
+<image>images/news/image2.jpg</image>
+<youtube>PzMpnqR-akU</youtube>
+<flv></flv>
+<videoWidth>445</videoWidth>
+<videoHeight>250</videoHeight>
+<shareURL>www.youtube.com/watch?v=PzMpnqR-akU</shareURL>
+<description><![CDATA[November 13th, 2010<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce accumsan consectetur sem, at pellentesque augue blandit quis. Nullam mattis laoreet sapien, sed condimentum purus lobortis pharetra. Donec cursus massa sed felis tristique convallis in convallis turpis. Suspendisse id sem quam. Vivamus suscipit ullamcorper suscipit. Fusce ipsum mauris, faucibus a consectetur sed, elementum suscipit velit. Integer lacinia lorem non lectus pellentesque vehicula. Nulla facilisi. Aliquam augue nunc, rutrum quis blandit in, sollicitudin nec nisl. Donec et orci sed tellus ullamcorper tristique et vel libero.
+Sed magna erat, consectetur nec porttitor quis, interdum a velit. Vestibulum vitae sem eu magna tincidunt placerat. Quisque id nisi nulla. Sed ipsum arcu, facilisis et sagittis vitae, sollicitudin et neque. Sed congue molestie scelerisque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque pretium fermentum neque, et viverra turpis suscipit commodo. Morbi augue tortor.]]></description>
+</item>
+ 
+<item>
+<media>image</media>
+<image>images/news/image3.jpg</image>
+<youtube></youtube>
+<flv></flv>
+<videoWidth></videoWidth>
+<videoHeight></videoHeight>
+<shareURL></shareURL>
+<description><![CDATA[October 21st, 2010<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce accumsan consectetur sem, at pellentesque augue blandit quis. Nullam mattis laoreet sapien, sed condimentum purus lobortis pharetra. Donec cursus massa sed felis tristique convallis in convallis turpis. Suspendisse id sem quam. Vivamus suscipit ullamcorper suscipit. Fusce ipsum mauris, faucibus a consectetur sed, elementum suscipit velit. Integer lacinia lorem non lectus pellentesque vehicula. Nulla facilisi. Aliquam augue nunc, rutrum quis blandit in, sollicitudin nec nisl. Donec et orci sed tellus ullamcorper tristique et vel libero.
+Sed magna erat, consectetur nec porttitor quis, interdum a velit. Vestibulum vitae sem eu magna tincidunt placerat. Quisque id nisi nulla. Sed ipsum arcu, facilisis et sagittis vitae, sollicitudin et neque. Sed congue molestie scelerisque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque pretium fermentum neque, et viverra turpis suscipit commodo. Morbi augue tortor, varius quis fermentum in, pharetra a odio. Nullam a sapien et ipsum viverra vehicula id ac risus. Pellentesque venenatis tristique tempus. Praesent et orci lacus. Cras iaculis arcu at orci convallis ornare malesuada augue pulvinar. Vestibulum venenatis tempor ante et lacinia. Suspendisse malesuada dapibus malesuada. Etiam blandit dui at neque ornare vulputate. Pellentesque a lorem quis nisi tempus venenatis. Ut eleifend mi eu dolor dapibus ornare a sit amet orci. Proin fermentum laoreet mauris, ut luctus est lacinia non. Integer et erat lectus.]]></description>
+</item> 
+
+<item>
+<media>flv</media>
+<image>images/news/image1.jpg</image>
+<youtube></youtube>
+<flv>http://s3.envato.com/files/1355305/elegantextrusion_video_preview.flv</flv>
+<videoWidth>445</videoWidth>
+<videoHeight>250</videoHeight>
+<shareURL>videohive.net/item/elegant-extrusion/142766</shareURL>
+<description><![CDATA[September 4th, 2010<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce accumsan consectetur sem, at pellentesque augue blandit quis. Nullam mattis laoreet sapien, sed condimentum purus lobortis pharetra. Donec cursus massa sed felis tristique convallis in convallis turpis. Suspendisse id sem quam. Vivamus suscipit ullamcorper suscipit. Fusce ipsum mauris, faucibus a consectetur sed, elementum suscipit velit. Integer lacinia lorem non lectus pellentesque vehicula. Nulla facilisi. Aliquam augue nunc, rutrum quis blandit in, sollicitudin nec nisl. Donec et orci sed tellus ullamcorper tristique et vel libero.
+Sed magna erat, consectetur nec porttitor quis, interdum a velit. Vestibulum vitae sem eu magna tincidunt placerat. Quisque id nisi nulla. Sed ipsum arcu, facilisis et sagittis vitae, sollicitudin et neque. Sed congue molestie scelerisque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque pretium fermentum neque, et viverra turpis suscipit commodo. Morbi augue tortor, varius quis fermentum in, pharetra a odio. Nullam a sapien et ipsum viverra vehicula id ac risus. Pellentesque venenatis tristique tempus. Praesent et orci lacus. Cras iaculis arcu at orci convallis ornare malesuada augue pulvinar. Vestibulum venenatis tempor ante et lacinia. Suspendisse malesuada dapibus malesuada. Etiam blandit dui at neque ornare vulputate. Pellentesque a lorem quis nisi tempus venenatis. Ut eleifend mi eu dolor dapibus ornare a sit amet orci. Proin fermentum laoreet mauris, ut luctus est lacinia non. Integer et erat lectus.]]></description>
+</item>
+
+<item>
+<media>image</media>
+<image>images/news/image5.jpg</image>
+<youtube></youtube>
+<flv></flv>
+<videoWidth></videoWidth>
+<videoHeight></videoHeight>
+<shareURL></shareURL>
+<description><![CDATA[August 12th, 2010<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce accumsan consectetur sem, at pellentesque augue blandit quis. Nullam mattis laoreet sapien, sed condimentum purus lobortis pharetra. Donec cursus massa sed felis tristique convallis in convallis turpis. Suspendisse id sem quam. Vivamus suscipit ullamcorper suscipit. Fusce ipsum mauris, faucibus a consectetur sed, elementum suscipit velit. Integer lacinia lorem non lectus pellentesque vehicula. Nulla facilisi. Aliquam augue nunc, rutrum quis blandit in, sollicitudin nec nisl. Donec et orci sed tellus ullamcorper tristique et vel libero.
+Sed magna erat, consectetur nec porttitor quis, interdum a velit. Vestibulum vitae sem eu magna tincidunt placerat. Quisque id nisi nulla. Sed ipsum arcu, facilisis et sagittis vitae, sollicitudin et neque. Sed congue molestie scelerisque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque pretium fermentum neque, et viverra turpis suscipit commodo. Morbi augue tortor, varius quis fermentum in, pharetra a odio. Nullam a sapien et ipsum viverra vehicula id ac risus. Pellentesque venenatis tristique tempus. Praesent et orci lacus. Cras iaculis arcu at orci convallis ornare malesuada augue pulvinar. Vestibulum venenatis tempor ante et lacinia. Suspendisse malesuada dapibus malesuada. Etiam blandit dui at neque ornare vulputate. Pellentesque a lorem quis nisi tempus venenatis. Ut eleifend mi eu dolor dapibus ornare a sit amet orci. Proin fermentum laoreet mauris, ut luctus est lacinia non. Integer et erat lectus.
+Sed magna erat, consectetur nec porttitor quis, interdum a velit. Vestibulum vitae sem eu magna tincidunt placerat. Quisque id nisi nulla. Sed ipsum arcu, facilisis et sagittis vitae, sollicitudin et neque. Sed congue molestie scelerisque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque pretium fermentum neque, et viverra turpis suscipit commodo. Morbi augue tortor, varius quis fermentum in, pharetra a odio. Nullam a sapien et ipsum viverra vehicula id ac risus. Pellentesque venenatis tristique tempus. Praesent et orci lacus. Cras iaculis arcu at orci convallis ornare malesuada augue pulvinar. Vestibulum venenatis tempor ante et lacinia. Suspendisse malesuada dapibus malesuada. Etiam blandit dui at neque ornare vulputate. Pellentesque a lorem quis nisi tempus venenatis. Ut eleifend mi eu dolor dapibus ornare a sit amet orci. Proin fermentum laoreet mauris, ut luctus est lacinia non. Integer et erat lectus.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce accumsan consectetur sem, at pellentesque augue blandit quis. Nullam mattis laoreet sapien, sed condimentum purus lobortis pharetra. Donec cursus massa sed felis tristique convallis in convallis turpis. Suspendisse id sem quam. Vivamus suscipit ullamcorper suscipit. Fusce ipsum mauris, faucibus a consectetur sed, elementum suscipit velit. Integer lacinia lorem non lectus pellentesque vehicula. Nulla facilisi. Aliquam augue nunc, rutrum quis blandit in, sollicitudin nec nisl. Donec et orci sed tellus ullamcorper tristique et vel libero.
+Sed magna erat, consectetur nec porttitor quis, interdum a velit. Vestibulum vitae sem eu magna tincidunt placerat. Quisque id nisi nulla. Sed ipsum arcu, facilisis et sagittis vitae, sollicitudin et neque. Sed congue molestie scelerisque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque pretium fermentum neque, et viverra turpis suscipit commodo. Morbi augue tortor, varius quis fermentum in, pharetra a odio. Nullam a sapien et ipsum viverra vehicula id ac risus. Pellentesque venenatis tristique tempus. Praesent et orci lacus. Cras iaculis arcu at orci convallis ornare malesuada augue pulvinar. Vestibulum venenatis tempor ante et lacinia. Suspendisse malesuada dapibus malesuada. Etiam blandit dui at neque ornare vulputate. Pellentesque a lorem quis nisi tempus venenatis. Ut eleifend mi eu dolor dapibus ornare a sit amet orci. Proin fermentum laoreet mauris, ut luctus est lacinia non. Integer et erat lectus.
+Sed magna erat, consectetur nec porttitor quis, interdum a velit. Vestibulum vitae sem eu magna tincidunt placerat. Quisque id nisi nulla. Sed ipsum arcu, facilisis et sagittis vitae, sollicitudin et neque. Sed congue molestie scelerisque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque pretium fermentum neque, et viverra turpis suscipit commodo. Morbi augue tortor, varius quis fermentum in, pharetra a odio. Nullam a sapien et ipsum viverra vehicula id ac risus. Pellentesque venenatis tristique tempus. Praesent et orci lacus. Cras iaculis arcu at orci convallis ornare malesuada augue pulvinar. Vestibulum venenatis tempor ante et lacinia. Suspendisse malesuada dapibus malesuada. Etiam blandit dui at neque ornare vulputate. Pellentesque a lorem quis nisi tempus venenatis. Ut eleifend mi eu dolor dapibus ornare a sit amet orci. Proin fermentum laoreet mauris, ut luctus est lacinia non. Integer et erat lectus.]]></description>
+</item>
+
+</data>
+
